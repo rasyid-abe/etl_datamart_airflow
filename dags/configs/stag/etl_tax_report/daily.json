@@ -1,0 +1,33 @@
+{
+    "dag": "etl_tax_report_mart_daily",
+    "owner": "abdur.rasyid@majoo.id",
+    "priority_weight": 90,
+    "conn_source": "postgres_data-lake",
+    "conn_target": "postgres_data-lake",
+    "email_alert": ["abdur.rasyid@majoo.id"],
+    "tasks" :  {
+        "wait" : [
+            {
+                "id" : "wait_for_raw",
+                "dag" : "etl_tax_report_mart_raw",
+                "task_id": "extract_load_raw"
+            }
+        ],
+        "daily" : [
+            {
+                "id" : "extract_load_tax_report",
+                "query" : "etl_tax_report/daily.sql",
+                "table" : "mart_prd.mart_tax_report_daily"
+            }
+        ]
+    },
+    "versions": [
+        {
+            "name": "v0_1_batch1",
+            "start_date": "2023-03-01 18:00:00",
+            "schedule_interval": "0 18 * * *",
+            "end_date": "2023-10-31 18:00:00",
+            "tags": ["active","tax-report"]
+        }
+    ]
+}

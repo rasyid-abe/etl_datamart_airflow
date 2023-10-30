@@ -1,0 +1,742 @@
+[2023-10-25T03:09:52.624+0000] {processor.py:153} INFO - Started process (PID=56) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:09:52.641+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:09:52.655+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:09:52.647+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:09:52.959+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:09:53.068+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:09:53.067+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:09:53.320+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:09:53.319+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:09:53.491+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.888 seconds
+[2023-10-25T03:10:24.151+0000] {processor.py:153} INFO - Started process (PID=88) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:10:24.160+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:10:24.190+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:10:24.189+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:10:24.920+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:10:25.043+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:10:25.043+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:10:25.315+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:10:25.314+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:10:25.401+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.267 seconds
+[2023-10-25T03:10:56.384+0000] {processor.py:153} INFO - Started process (PID=120) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:10:56.393+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:10:56.395+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:10:56.394+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:10:56.533+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:10:56.619+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:10:56.618+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:10:56.706+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:10:56.704+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:10:56.794+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.425 seconds
+[2023-10-25T03:11:26.946+0000] {processor.py:153} INFO - Started process (PID=153) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:11:26.948+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:11:26.951+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:11:26.951+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:11:27.015+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:11:27.036+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:11:27.035+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:11:27.090+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:11:27.089+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:11:27.132+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.192 seconds
+[2023-10-25T03:11:57.565+0000] {processor.py:153} INFO - Started process (PID=186) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:11:57.570+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:11:57.573+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:11:57.573+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:11:57.692+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:11:57.736+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:11:57.736+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:11:57.838+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:11:57.838+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:11:57.932+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.377 seconds
+[2023-10-25T03:12:28.180+0000] {processor.py:153} INFO - Started process (PID=218) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:12:28.183+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:12:28.186+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:12:28.186+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:12:28.287+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:12:28.320+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:12:28.320+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:12:28.375+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:12:28.375+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:12:28.414+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.242 seconds
+[2023-10-25T03:12:59.091+0000] {processor.py:153} INFO - Started process (PID=250) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:12:59.101+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:12:59.108+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:12:59.104+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:12:59.318+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:12:59.423+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:12:59.423+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:12:59.585+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:12:59.584+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:12:59.638+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.588 seconds
+[2023-10-25T03:13:30.710+0000] {processor.py:153} INFO - Started process (PID=286) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:13:30.719+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:13:30.724+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:13:30.723+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:13:30.950+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:13:31.017+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:13:31.017+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:13:31.136+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:13:31.136+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:13:31.197+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.522 seconds
+[2023-10-25T03:14:01.592+0000] {processor.py:153} INFO - Started process (PID=319) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:14:01.594+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:14:01.598+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:14:01.598+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:14:01.682+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:14:01.711+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:14:01.711+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:14:01.772+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:14:01.771+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:14:01.821+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.240 seconds
+[2023-10-25T03:14:31.915+0000] {processor.py:153} INFO - Started process (PID=359) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:14:31.919+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:14:31.924+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:14:31.923+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:14:32.088+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:14:32.121+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:14:32.121+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:14:32.180+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:14:32.179+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:14:32.242+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.345 seconds
+[2023-10-25T03:15:02.618+0000] {processor.py:153} INFO - Started process (PID=391) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:15:02.620+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:15:02.623+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:15:02.623+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:15:02.703+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:15:02.730+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:15:02.730+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:15:02.780+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:15:02.780+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:15:02.814+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.201 seconds
+[2023-10-25T03:15:33.273+0000] {processor.py:153} INFO - Started process (PID=421) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:15:33.276+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:15:33.286+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:15:33.284+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:15:33.386+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:15:33.420+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:15:33.420+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:15:33.472+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:15:33.472+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:15:33.509+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.253 seconds
+[2023-10-25T03:16:03.923+0000] {processor.py:153} INFO - Started process (PID=453) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:16:03.926+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:16:03.931+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:16:03.930+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:16:04.014+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:16:04.058+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:16:04.057+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:16:04.134+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:16:04.134+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:16:04.174+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.261 seconds
+[2023-10-25T03:16:34.609+0000] {processor.py:153} INFO - Started process (PID=494) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:16:34.615+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:16:34.620+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:16:34.619+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:16:34.710+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:16:34.745+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:16:34.745+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:16:34.807+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:16:34.806+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:16:34.848+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.253 seconds
+[2023-10-25T03:17:05.748+0000] {processor.py:153} INFO - Started process (PID=527) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:17:05.751+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:17:05.752+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:17:05.752+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:17:05.863+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:17:05.890+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:17:05.890+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:17:05.948+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:17:05.948+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:17:06.000+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.260 seconds
+[2023-10-25T03:17:36.580+0000] {processor.py:153} INFO - Started process (PID=560) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:17:36.592+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:17:36.599+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:17:36.599+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:17:36.819+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:17:36.934+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:17:36.934+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:17:37.055+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:17:37.054+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:17:37.136+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.569 seconds
+[2023-10-25T03:18:08.038+0000] {processor.py:153} INFO - Started process (PID=592) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:18:08.040+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:18:08.046+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:18:08.044+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:18:08.178+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:18:08.215+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:18:08.215+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:18:08.277+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:18:08.277+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:18:08.315+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.284 seconds
+[2023-10-25T03:18:38.856+0000] {processor.py:153} INFO - Started process (PID=624) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:18:38.865+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:18:38.869+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:18:38.868+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:18:38.984+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:18:39.025+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:18:39.025+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:18:39.110+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:18:39.109+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:18:39.164+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.317 seconds
+[2023-10-25T03:19:09.697+0000] {processor.py:153} INFO - Started process (PID=663) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:19:09.699+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:19:09.704+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:19:09.704+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:19:09.876+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:19:09.958+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:19:09.952+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:19:10.108+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:19:10.108+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:19:10.240+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.552 seconds
+[2023-10-25T03:19:41.208+0000] {processor.py:153} INFO - Started process (PID=699) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:19:41.212+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:19:41.220+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:19:41.219+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:19:41.357+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:19:41.385+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:19:41.385+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:19:41.459+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:19:41.459+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:19:41.515+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.315 seconds
+[2023-10-25T03:20:12.494+0000] {processor.py:153} INFO - Started process (PID=731) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:20:12.499+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:20:12.508+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:20:12.507+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:20:12.594+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:20:12.636+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:20:12.636+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:20:12.729+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:20:12.728+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:20:12.858+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.380 seconds
+[2023-10-25T03:20:43.249+0000] {processor.py:153} INFO - Started process (PID=763) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:20:43.253+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:20:43.260+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:20:43.259+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:20:43.379+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:20:43.427+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:20:43.427+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:20:43.511+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:20:43.510+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:20:43.582+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.351 seconds
+[2023-10-25T03:21:14.415+0000] {processor.py:153} INFO - Started process (PID=795) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:21:14.420+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:21:14.425+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:21:14.423+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:21:14.537+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:21:14.572+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:21:14.572+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:21:14.639+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:21:14.638+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:21:14.711+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.308 seconds
+[2023-10-25T03:21:45.330+0000] {processor.py:153} INFO - Started process (PID=830) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:21:45.333+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:21:45.341+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:21:45.340+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:21:45.435+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:21:45.473+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:21:45.472+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:21:45.550+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:21:45.550+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:21:45.727+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.432 seconds
+[2023-10-25T03:22:16.318+0000] {processor.py:153} INFO - Started process (PID=870) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:22:16.331+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:22:16.338+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:22:16.338+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:22:16.802+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:22:16.928+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:22:16.928+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:22:17.240+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:22:17.240+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:22:17.651+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.369 seconds
+[2023-10-25T03:22:47.838+0000] {processor.py:153} INFO - Started process (PID=903) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:22:47.840+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:22:47.843+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:22:47.843+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:22:47.927+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:22:47.954+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:22:47.954+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:22:47.998+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:22:47.997+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:22:48.034+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.203 seconds
+[2023-10-25T03:23:18.614+0000] {processor.py:153} INFO - Started process (PID=942) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:23:18.618+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:23:18.624+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:23:18.621+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:23:18.763+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:23:18.797+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:23:18.796+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:23:18.855+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:23:18.855+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:23:18.889+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.285 seconds
+[2023-10-25T03:23:49.393+0000] {processor.py:153} INFO - Started process (PID=976) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:23:49.401+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:23:49.418+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:23:49.418+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:23:49.567+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:23:49.634+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:23:49.633+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:23:49.731+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:23:49.731+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:23:49.883+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.500 seconds
+[2023-10-25T03:24:20.325+0000] {processor.py:153} INFO - Started process (PID=1011) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:24:20.327+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:24:20.334+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:24:20.333+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:24:20.408+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:24:20.442+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:24:20.442+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:24:20.501+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:24:20.499+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:24:20.563+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.245 seconds
+[2023-10-25T03:24:50.808+0000] {processor.py:153} INFO - Started process (PID=1043) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:24:50.811+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:24:50.813+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:24:50.813+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:24:50.926+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:24:50.963+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:24:50.962+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:24:51.037+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:24:51.036+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:24:51.088+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.291 seconds
+[2023-10-25T03:25:21.578+0000] {processor.py:153} INFO - Started process (PID=1075) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:25:21.583+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:25:21.591+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:25:21.590+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:25:21.818+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:25:21.864+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:25:21.863+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:25:21.999+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:25:21.999+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:25:22.091+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.536 seconds
+[2023-10-25T03:25:52.333+0000] {processor.py:153} INFO - Started process (PID=1108) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:25:52.336+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:25:52.339+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:25:52.339+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:25:52.438+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:25:52.471+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:25:52.471+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:25:52.543+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:25:52.543+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:25:52.579+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.255 seconds
+[2023-10-25T03:26:22.693+0000] {processor.py:153} INFO - Started process (PID=1141) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:26:22.696+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:26:22.700+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:26:22.700+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:26:22.766+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:26:22.794+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:26:22.794+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:26:22.872+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:26:22.872+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:26:22.934+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.247 seconds
+[2023-10-25T03:26:53.150+0000] {processor.py:153} INFO - Started process (PID=1174) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:26:53.152+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:26:53.157+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:26:53.157+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:26:53.238+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:26:53.273+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:26:53.272+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:26:53.372+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:26:53.372+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:26:53.438+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.294 seconds
+[2023-10-25T03:27:24.187+0000] {processor.py:153} INFO - Started process (PID=1206) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:27:24.189+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:27:24.193+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:27:24.192+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:27:24.263+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:27:24.292+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:27:24.292+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:27:24.394+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:27:24.394+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:27:24.449+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.268 seconds
+[2023-10-25T03:27:55.044+0000] {processor.py:153} INFO - Started process (PID=1249) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:27:55.048+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:27:55.065+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:27:55.064+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:27:55.229+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:27:55.274+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:27:55.273+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:27:55.327+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:27:55.326+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:27:55.366+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.334 seconds
+[2023-10-25T03:28:25.835+0000] {processor.py:153} INFO - Started process (PID=1276) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:28:25.844+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:28:25.858+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:28:25.857+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:28:26.553+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:28:26.877+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:28:26.876+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:28:27.362+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:28:27.362+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:28:27.559+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.756 seconds
+[2023-10-25T03:28:58.119+0000] {processor.py:153} INFO - Started process (PID=1306) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:28:58.137+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:28:58.150+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:28:58.150+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:28:58.491+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:28:58.609+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:28:58.608+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:28:58.913+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:28:58.912+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:28:59.083+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.997 seconds
+[2023-10-25T03:29:29.709+0000] {processor.py:153} INFO - Started process (PID=1337) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:29:29.713+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:29:29.715+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:29:29.715+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:29:29.924+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:29:29.986+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:29:29.986+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:29:30.088+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:29:30.087+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:29:30.155+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.464 seconds
+[2023-10-25T03:30:00.322+0000] {processor.py:153} INFO - Started process (PID=1378) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:30:00.325+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:30:00.335+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:30:00.334+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:30:00.520+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:30:00.609+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:30:00.606+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:30:00.854+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:30:00.846+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:30:00.990+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.684 seconds
+[2023-10-25T03:30:31.217+0000] {processor.py:153} INFO - Started process (PID=1416) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:30:31.223+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:30:31.229+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:30:31.228+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:30:31.426+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:30:31.533+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:30:31.533+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:30:31.651+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:30:31.651+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:30:31.743+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.563 seconds
+[2023-10-25T03:31:02.400+0000] {processor.py:153} INFO - Started process (PID=1453) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:31:02.402+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:31:02.405+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:31:02.405+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:31:02.519+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:31:02.558+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:31:02.557+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:31:02.663+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:31:02.662+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:31:02.735+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.341 seconds
+[2023-10-25T03:31:33.240+0000] {processor.py:153} INFO - Started process (PID=1485) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:31:33.243+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:31:33.247+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:31:33.245+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:31:33.414+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:31:33.471+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:31:33.471+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:31:33.579+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:31:33.578+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:31:33.650+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.423 seconds
+[2023-10-25T03:32:04.095+0000] {processor.py:153} INFO - Started process (PID=1520) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:32:04.109+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:32:04.113+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:32:04.112+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:32:04.295+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:32:04.362+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:32:04.362+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:32:04.486+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:32:04.485+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:32:04.547+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.475 seconds
+[2023-10-25T03:32:35.270+0000] {processor.py:153} INFO - Started process (PID=1552) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:32:35.276+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:32:35.288+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:32:35.287+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:32:35.398+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:32:35.445+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:32:35.444+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:32:35.496+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:32:35.495+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:32:35.559+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.315 seconds
+[2023-10-25T03:33:06.492+0000] {processor.py:153} INFO - Started process (PID=1587) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:33:06.496+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:33:06.504+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:33:06.504+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:33:07.567+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:33:07.655+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:33:07.655+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:33:08.079+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:33:08.079+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:33:10.138+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 3.692 seconds
+[2023-10-25T03:33:40.666+0000] {processor.py:153} INFO - Started process (PID=1625) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:33:40.683+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:33:40.696+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:33:40.695+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:33:41.210+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:33:41.391+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:33:41.391+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:33:41.747+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:33:41.747+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:33:42.044+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.409 seconds
+[2023-10-25T03:34:12.312+0000] {processor.py:153} INFO - Started process (PID=1657) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:34:12.314+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:34:12.319+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:34:12.318+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:34:12.396+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:34:12.434+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:34:12.433+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:34:12.488+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:34:12.487+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:34:12.532+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.225 seconds
+[2023-10-25T03:34:42.772+0000] {processor.py:153} INFO - Started process (PID=1688) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:34:42.774+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:34:42.776+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:34:42.775+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:34:42.908+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:34:42.955+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:34:42.954+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:34:43.096+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:34:43.095+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:34:43.215+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.452 seconds
+[2023-10-25T03:35:13.504+0000] {processor.py:153} INFO - Started process (PID=1719) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:35:13.524+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:35:13.529+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:35:13.529+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:35:13.638+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:35:13.674+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:35:13.674+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:35:13.738+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:35:13.738+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:35:13.780+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.284 seconds
+[2023-10-25T03:35:43.938+0000] {processor.py:153} INFO - Started process (PID=1751) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:35:43.944+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:35:43.953+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:35:43.952+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:35:44.099+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:35:44.147+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:35:44.146+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:35:44.242+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:35:44.242+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:35:44.329+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.402 seconds
+[2023-10-25T03:36:14.719+0000] {processor.py:153} INFO - Started process (PID=1788) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:36:14.722+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:36:14.727+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:36:14.726+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:36:14.824+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:36:14.857+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:36:14.856+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:36:14.911+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:36:14.911+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:36:14.952+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.241 seconds
+[2023-10-25T03:36:45.069+0000] {processor.py:153} INFO - Started process (PID=1823) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:36:45.100+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:36:45.112+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:36:45.112+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:36:45.426+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:36:45.547+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:36:45.546+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:36:45.771+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:36:45.771+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:36:45.928+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.882 seconds
+[2023-10-25T03:37:16.237+0000] {processor.py:153} INFO - Started process (PID=1861) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:37:16.239+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:37:16.241+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:37:16.241+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:37:16.325+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:37:16.353+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:37:16.353+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:37:16.403+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:37:16.403+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:37:16.444+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.215 seconds
+[2023-10-25T03:37:46.698+0000] {processor.py:153} INFO - Started process (PID=1896) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:37:46.704+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:37:46.715+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:37:46.714+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:37:47.006+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:37:47.160+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:37:47.160+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:37:47.625+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:37:47.625+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:37:47.718+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.043 seconds
+[2023-10-25T03:38:18.697+0000] {processor.py:153} INFO - Started process (PID=1930) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:38:18.711+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:38:18.750+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:38:18.742+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:38:19.262+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:38:19.683+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:38:19.683+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:38:20.219+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:38:20.219+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:38:20.456+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.891 seconds
+[2023-10-25T03:38:50.860+0000] {processor.py:153} INFO - Started process (PID=1959) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:38:50.866+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:38:50.869+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:38:50.869+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:38:51.026+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:38:51.083+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:38:51.083+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:38:51.186+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:38:51.186+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:38:51.270+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.416 seconds
+[2023-10-25T03:39:21.608+0000] {processor.py:153} INFO - Started process (PID=1998) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:39:21.611+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:39:21.615+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:39:21.614+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:39:21.855+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:39:21.946+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:39:21.946+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:39:22.094+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:39:22.094+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:39:22.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.620 seconds
+[2023-10-25T03:39:52.674+0000] {processor.py:153} INFO - Started process (PID=2030) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:39:52.677+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:39:52.679+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:39:52.679+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:39:52.843+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:39:52.888+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:39:52.886+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:39:52.962+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:39:52.962+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:39:53.020+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.357 seconds
+[2023-10-25T03:40:23.653+0000] {processor.py:153} INFO - Started process (PID=2067) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:40:23.660+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:40:23.679+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:40:23.678+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:40:23.920+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:40:23.998+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:40:23.998+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:40:24.108+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:40:24.107+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:40:24.170+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.535 seconds
+[2023-10-25T03:40:55.207+0000] {processor.py:153} INFO - Started process (PID=2105) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:40:55.223+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:40:55.250+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:40:55.250+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:40:55.938+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:40:56.140+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:40:56.139+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:40:56.695+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:40:56.679+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:40:57.017+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.863 seconds
+[2023-10-25T03:41:27.509+0000] {processor.py:153} INFO - Started process (PID=2133) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:41:27.513+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:41:27.517+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:41:27.516+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:41:27.601+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:41:27.635+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:41:27.635+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:41:27.703+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:41:27.703+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:41:27.753+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.251 seconds
+[2023-10-25T03:41:57.895+0000] {processor.py:153} INFO - Started process (PID=2169) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:41:57.897+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:41:57.901+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:41:57.901+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:41:58.044+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:41:58.082+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:41:58.082+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:41:58.189+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:41:58.188+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:41:58.260+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.376 seconds
+[2023-10-25T03:42:28.455+0000] {processor.py:153} INFO - Started process (PID=2203) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:42:28.458+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:42:28.462+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:42:28.462+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:42:28.592+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:42:28.636+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:42:28.635+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:42:28.715+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:42:28.715+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:42:28.767+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.321 seconds
+[2023-10-25T03:42:59.189+0000] {processor.py:153} INFO - Started process (PID=2234) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:42:59.191+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:42:59.195+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:42:59.194+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:42:59.276+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:42:59.323+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:42:59.323+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:42:59.402+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:42:59.402+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:42:59.457+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.274 seconds
+[2023-10-25T03:43:29.720+0000] {processor.py:153} INFO - Started process (PID=2266) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:43:29.726+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:43:29.732+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:43:29.730+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:43:29.864+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:43:29.906+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:43:29.906+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:43:29.974+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:43:29.974+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:43:30.022+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.367 seconds
+[2023-10-25T03:44:00.439+0000] {processor.py:153} INFO - Started process (PID=2298) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:44:00.442+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:44:00.450+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:44:00.450+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:44:00.586+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:44:00.764+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:44:00.763+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:44:00.903+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:44:00.902+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:44:00.970+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.545 seconds
+[2023-10-25T03:44:31.281+0000] {processor.py:153} INFO - Started process (PID=2330) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:44:31.292+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:44:31.295+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:44:31.294+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:44:31.595+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:44:31.702+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:44:31.701+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:44:31.882+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:44:31.882+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:44:32.008+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.744 seconds
+[2023-10-25T03:45:02.961+0000] {processor.py:153} INFO - Started process (PID=2362) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:45:02.974+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:45:02.982+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:45:02.982+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:45:03.270+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:45:03.326+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:45:03.326+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:45:03.393+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:45:03.393+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:45:03.444+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.515 seconds
+[2023-10-25T03:45:33.753+0000] {processor.py:153} INFO - Started process (PID=2407) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:45:33.755+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:45:33.757+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:45:33.756+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:45:33.840+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:45:33.867+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:45:33.866+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:45:33.921+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:45:33.921+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:45:33.976+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.228 seconds
+[2023-10-25T03:46:04.427+0000] {processor.py:153} INFO - Started process (PID=2446) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:46:04.443+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:46:04.446+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:46:04.446+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:46:04.859+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:46:05.049+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:46:05.048+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:46:05.307+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:46:05.307+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:46:05.485+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 1.099 seconds
+[2023-10-25T03:46:36.164+0000] {processor.py:153} INFO - Started process (PID=2486) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:46:36.171+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:46:36.174+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:46:36.174+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:46:36.363+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:46:36.457+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:46:36.457+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:46:36.646+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:46:36.646+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:46:36.742+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.584 seconds
+[2023-10-25T03:47:07.450+0000] {processor.py:153} INFO - Started process (PID=2529) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:47:07.460+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:47:07.475+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:47:07.474+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:47:07.847+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:47:08.024+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:47:08.023+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:47:08.242+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:47:08.242+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:47:08.370+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.956 seconds
+[2023-10-25T03:47:38.950+0000] {processor.py:153} INFO - Started process (PID=2564) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:47:38.956+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:47:38.959+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:47:38.958+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:47:39.191+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:47:39.269+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:47:39.268+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:47:39.366+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:47:39.365+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:47:39.435+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.517 seconds
+[2023-10-25T03:48:10.174+0000] {processor.py:153} INFO - Started process (PID=2605) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:48:10.180+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:48:10.192+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:48:10.192+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:48:10.501+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:48:10.589+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:48:10.588+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:48:10.763+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:48:10.763+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:48:10.889+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.727 seconds
+[2023-10-25T03:48:41.125+0000] {processor.py:153} INFO - Started process (PID=2642) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:48:41.135+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:48:41.144+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:48:41.142+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:48:41.237+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:48:41.273+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:48:41.272+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:48:41.416+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:48:41.416+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:48:41.512+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.412 seconds
+[2023-10-25T03:49:12.378+0000] {processor.py:153} INFO - Started process (PID=2681) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:49:12.389+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:49:12.390+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:49:12.390+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:49:12.572+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:49:12.639+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:49:12.639+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:49:12.740+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:49:12.740+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:49:12.797+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.437 seconds
+[2023-10-25T03:49:43.316+0000] {processor.py:153} INFO - Started process (PID=2717) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:49:43.319+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:49:43.324+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:49:43.323+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:49:43.504+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:49:43.583+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:49:43.582+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:49:43.708+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:49:43.707+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:49:43.760+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.452 seconds
+[2023-10-25T03:50:14.801+0000] {processor.py:153} INFO - Started process (PID=2761) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:50:14.804+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:50:14.808+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:50:14.808+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:50:14.903+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:50:14.938+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:50:14.938+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:50:15.009+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:50:15.008+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:50:15.053+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.260 seconds
+[2023-10-25T03:50:45.170+0000] {processor.py:153} INFO - Started process (PID=2794) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:50:45.178+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:50:45.188+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:50:45.188+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:50:45.287+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:50:45.334+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:50:45.333+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:50:45.407+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:50:45.406+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:50:45.459+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.302 seconds
+[2023-10-25T03:51:16.224+0000] {processor.py:153} INFO - Started process (PID=2825) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:51:16.229+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:51:16.234+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:51:16.233+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:51:16.362+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:51:16.401+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:51:16.401+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:51:16.466+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:51:16.465+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:51:16.520+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.306 seconds
+[2023-10-25T03:51:46.733+0000] {processor.py:153} INFO - Started process (PID=2857) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:51:46.737+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:51:46.744+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:51:46.744+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:51:46.839+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:51:46.872+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:51:46.872+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:51:46.928+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:51:46.928+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:51:46.973+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.258 seconds
+[2023-10-25T03:52:17.072+0000] {processor.py:153} INFO - Started process (PID=2890) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:52:17.075+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:52:17.079+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:52:17.079+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:52:17.189+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:52:17.226+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:52:17.226+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:52:17.301+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:52:17.301+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:52:17.352+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.292 seconds
+[2023-10-25T03:52:47.619+0000] {processor.py:153} INFO - Started process (PID=2923) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:52:47.621+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:52:47.634+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:52:47.634+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:52:47.775+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:52:47.846+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:52:47.845+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:52:47.925+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:52:47.924+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:52:47.996+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.394 seconds
+[2023-10-25T03:53:18.773+0000] {processor.py:153} INFO - Started process (PID=2961) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:53:18.786+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:53:18.810+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:53:18.808+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:53:19.151+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:53:19.245+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:53:19.244+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:53:19.372+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:53:19.371+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:53:19.449+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.693 seconds
+[2023-10-25T03:53:50.111+0000] {processor.py:153} INFO - Started process (PID=2998) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:53:50.113+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:53:50.118+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:53:50.117+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:53:50.195+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:53:50.224+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:53:50.224+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:53:50.287+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:53:50.287+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:53:50.327+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.222 seconds
+[2023-10-25T03:54:20.865+0000] {processor.py:153} INFO - Started process (PID=3030) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:54:20.867+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:54:20.871+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:54:20.871+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:54:20.945+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:54:20.975+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:54:20.975+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:54:21.028+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:54:21.028+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:54:21.096+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.237 seconds
+[2023-10-25T03:54:51.219+0000] {processor.py:153} INFO - Started process (PID=3063) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:54:51.221+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:54:51.227+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:54:51.227+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:54:51.302+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:54:51.329+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:54:51.329+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:54:51.381+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:54:51.380+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:54:51.416+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.204 seconds
+[2023-10-25T03:55:21.611+0000] {processor.py:153} INFO - Started process (PID=3094) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:55:21.613+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:55:21.616+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:55:21.616+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:55:21.680+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:55:21.708+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:55:21.707+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:55:21.761+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:55:21.760+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:55:21.793+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.189 seconds
+[2023-10-25T03:55:52.603+0000] {processor.py:153} INFO - Started process (PID=3126) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:55:52.609+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:55:52.613+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:55:52.613+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:55:52.752+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:55:52.782+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:55:52.782+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:55:52.866+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:55:52.865+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:55:52.920+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.327 seconds
+[2023-10-25T03:56:23.534+0000] {processor.py:153} INFO - Started process (PID=3158) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:56:23.538+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:56:23.542+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:56:23.541+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:56:23.693+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:56:23.851+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:56:23.850+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:56:24.012+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:56:24.009+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:56:24.114+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.590 seconds
+[2023-10-25T03:56:54.311+0000] {processor.py:153} INFO - Started process (PID=3190) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:56:54.313+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:56:54.317+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:56:54.316+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:56:54.402+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:56:54.429+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:56:54.429+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:56:54.507+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:56:54.507+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:56:54.576+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.273 seconds
+[2023-10-25T03:57:24.747+0000] {processor.py:153} INFO - Started process (PID=3231) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:57:24.751+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:57:24.766+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:57:24.765+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:57:25.037+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:57:25.140+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:57:25.138+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:57:25.240+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:57:25.239+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:57:25.324+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.593 seconds
+[2023-10-25T03:57:56.152+0000] {processor.py:153} INFO - Started process (PID=3263) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:57:56.158+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:57:56.166+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:57:56.165+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:57:56.414+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:57:56.518+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:57:56.515+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:57:56.702+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:57:56.702+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:57:56.798+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.661 seconds
+[2023-10-25T03:58:27.440+0000] {processor.py:153} INFO - Started process (PID=3298) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:58:27.443+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:58:27.446+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:58:27.445+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:58:27.582+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:58:27.645+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:58:27.645+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:58:27.768+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:58:27.767+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:58:27.949+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.519 seconds
+[2023-10-25T03:58:58.735+0000] {processor.py:153} INFO - Started process (PID=3330) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:58:58.738+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:58:58.747+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:58:58.746+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:58:58.903+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:58:58.980+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:58:58.980+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:58:59.080+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:58:59.080+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:58:59.131+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.409 seconds
+[2023-10-25T03:59:29.732+0000] {processor.py:153} INFO - Started process (PID=3362) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:59:29.736+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T03:59:29.740+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:59:29.739+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:59:29.878+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T03:59:29.935+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:59:29.935+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T03:59:30.095+0000] {logging_mixin.py:137} INFO - [2023-10-25T03:59:30.095+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T03:59:30.231+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.510 seconds
+[2023-10-25T04:00:00.488+0000] {processor.py:153} INFO - Started process (PID=3394) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:00:00.490+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:00:00.493+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:00:00.492+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:00:00.619+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:00:00.668+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:00:00.668+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:00:00.755+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:00:00.754+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:00:00.802+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.320 seconds
+[2023-10-25T04:00:31.328+0000] {processor.py:153} INFO - Started process (PID=3426) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:00:31.330+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:00:31.335+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:00:31.334+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:00:31.464+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:00:31.528+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:00:31.527+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:00:31.614+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:00:31.614+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:00:31.652+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.333 seconds
+[2023-10-25T04:01:02.384+0000] {processor.py:153} INFO - Started process (PID=3470) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:01:02.386+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:01:02.389+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:01:02.389+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:01:02.459+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:01:02.485+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:01:02.485+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:01:02.536+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:01:02.536+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:01:02.572+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.193 seconds
+[2023-10-25T04:01:32.822+0000] {processor.py:153} INFO - Started process (PID=3502) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:01:32.825+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:01:32.829+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:01:32.829+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:01:32.921+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:01:32.956+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:01:32.955+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:01:33.025+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:01:33.025+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:01:33.070+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.257 seconds
+[2023-10-25T04:02:03.425+0000] {processor.py:153} INFO - Started process (PID=3534) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:02:03.428+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:02:03.435+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:02:03.434+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:02:03.541+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:02:03.584+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:02:03.583+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:02:03.641+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:02:03.641+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:02:03.686+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.272 seconds
+[2023-10-25T04:02:33.984+0000] {processor.py:153} INFO - Started process (PID=3566) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:02:33.987+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:02:33.990+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:02:33.989+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:02:34.063+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:02:34.092+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:02:34.092+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:02:34.140+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:02:34.140+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:02:34.174+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.195 seconds
+[2023-10-25T04:03:04.556+0000] {processor.py:153} INFO - Started process (PID=3611) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:03:04.560+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:03:04.571+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:03:04.571+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:03:04.731+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:03:04.781+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:03:04.781+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:03:04.904+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:03:04.904+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:03:04.970+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.428 seconds
+[2023-10-25T04:03:35.038+0000] {processor.py:153} INFO - Started process (PID=3643) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:03:35.041+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:03:35.044+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:03:35.043+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:03:35.143+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:03:35.198+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:03:35.198+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:03:35.271+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:03:35.271+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:03:35.317+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.287 seconds
+[2023-10-25T04:04:05.735+0000] {processor.py:153} INFO - Started process (PID=3676) to work on /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:04:05.739+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_tax_report_mart_monthly.py for tasks to queue
+[2023-10-25T04:04:05.744+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:04:05.743+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:04:05.829+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_tax_report_mart_monthly_v0_1_batch1']) retrieved from /opt/airflow/dags/etl_tax_report_mart_monthly.py
+[2023-10-25T04:04:05.864+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:04:05.864+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-25T04:04:05.926+0000] {logging_mixin.py:137} INFO - [2023-10-25T04:04:05.925+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_tax_report_mart_monthly_v0_1_batch1 to 2023-09-30T18:00:00+00:00, run_after=2023-10-31T18:00:00+00:00
+[2023-10-25T04:04:05.969+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_tax_report_mart_monthly.py took 0.243 seconds

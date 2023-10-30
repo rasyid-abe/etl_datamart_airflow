@@ -1,0 +1,553 @@
+[2023-07-28 00:00:09,898] {processor.py:153} INFO - Started process (PID=1533) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:00:09,900] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:00:09,903] {logging_mixin.py:115} INFO - [2023-07-28 00:00:09,903] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:00:09,963] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:00:09,986] {logging_mixin.py:115} INFO - [2023-07-28 00:00:09,985] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:00:10,016] {logging_mixin.py:115} INFO - [2023-07-28 00:00:10,016] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:00:10,036] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.146 seconds
+[2023-07-28 00:00:40,179] {processor.py:153} INFO - Started process (PID=1561) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:00:40,180] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:00:40,184] {logging_mixin.py:115} INFO - [2023-07-28 00:00:40,184] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:00:40,243] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:00:40,265] {logging_mixin.py:115} INFO - [2023-07-28 00:00:40,265] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:00:40,299] {logging_mixin.py:115} INFO - [2023-07-28 00:00:40,299] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:00:40,317] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.142 seconds
+[2023-07-28 00:01:10,429] {processor.py:153} INFO - Started process (PID=1589) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:01:10,431] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:01:10,433] {logging_mixin.py:115} INFO - [2023-07-28 00:01:10,433] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:01:10,503] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:01:10,530] {logging_mixin.py:115} INFO - [2023-07-28 00:01:10,530] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:01:10,564] {logging_mixin.py:115} INFO - [2023-07-28 00:01:10,564] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:01:10,583] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.160 seconds
+[2023-07-28 00:01:40,702] {processor.py:153} INFO - Started process (PID=1611) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:01:40,704] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:01:40,708] {logging_mixin.py:115} INFO - [2023-07-28 00:01:40,708] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:01:40,771] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:01:40,793] {logging_mixin.py:115} INFO - [2023-07-28 00:01:40,793] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:01:40,828] {logging_mixin.py:115} INFO - [2023-07-28 00:01:40,828] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:01:40,850] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.155 seconds
+[2023-07-28 00:02:10,969] {processor.py:153} INFO - Started process (PID=1640) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:02:10,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:02:10,973] {logging_mixin.py:115} INFO - [2023-07-28 00:02:10,973] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:02:11,063] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:02:11,090] {logging_mixin.py:115} INFO - [2023-07-28 00:02:11,090] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:02:11,131] {logging_mixin.py:115} INFO - [2023-07-28 00:02:11,131] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:02:11,157] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.195 seconds
+[2023-07-28 00:02:41,628] {processor.py:153} INFO - Started process (PID=1660) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:02:41,634] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:02:41,637] {logging_mixin.py:115} INFO - [2023-07-28 00:02:41,636] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:02:41,745] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:02:41,777] {logging_mixin.py:115} INFO - [2023-07-28 00:02:41,777] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:02:41,828] {logging_mixin.py:115} INFO - [2023-07-28 00:02:41,828] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:02:41,862] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.246 seconds
+[2023-07-28 00:03:12,702] {processor.py:153} INFO - Started process (PID=1690) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:03:12,703] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:03:12,705] {logging_mixin.py:115} INFO - [2023-07-28 00:03:12,705] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:03:12,836] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:03:12,914] {logging_mixin.py:115} INFO - [2023-07-28 00:03:12,914] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:03:12,969] {logging_mixin.py:115} INFO - [2023-07-28 00:03:12,969] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:03:13,005] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.315 seconds
+[2023-07-28 00:03:43,371] {processor.py:153} INFO - Started process (PID=1711) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:03:43,374] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:03:43,379] {logging_mixin.py:115} INFO - [2023-07-28 00:03:43,379] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:03:43,525] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:03:43,567] {logging_mixin.py:115} INFO - [2023-07-28 00:03:43,567] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:03:43,647] {logging_mixin.py:115} INFO - [2023-07-28 00:03:43,646] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:03:43,679] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.318 seconds
+[2023-07-28 00:04:13,798] {processor.py:153} INFO - Started process (PID=1740) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:04:13,800] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:04:13,803] {logging_mixin.py:115} INFO - [2023-07-28 00:04:13,803] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:04:13,880] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:04:13,907] {logging_mixin.py:115} INFO - [2023-07-28 00:04:13,907] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:04:13,948] {logging_mixin.py:115} INFO - [2023-07-28 00:04:13,948] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:04:13,974] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.200 seconds
+[2023-07-28 00:04:44,156] {processor.py:153} INFO - Started process (PID=1759) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:04:44,160] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:04:44,168] {logging_mixin.py:115} INFO - [2023-07-28 00:04:44,168] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:04:44,278] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:04:44,301] {logging_mixin.py:115} INFO - [2023-07-28 00:04:44,301] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:04:44,343] {logging_mixin.py:115} INFO - [2023-07-28 00:04:44,342] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:04:44,364] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.231 seconds
+[2023-07-28 00:05:14,466] {processor.py:153} INFO - Started process (PID=1789) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:05:14,469] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:05:14,471] {logging_mixin.py:115} INFO - [2023-07-28 00:05:14,471] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:05:14,601] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:05:14,673] {logging_mixin.py:115} INFO - [2023-07-28 00:05:14,673] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:05:14,738] {logging_mixin.py:115} INFO - [2023-07-28 00:05:14,738] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:05:14,771] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.315 seconds
+[2023-07-28 00:05:45,404] {processor.py:153} INFO - Started process (PID=1809) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:05:45,407] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:05:45,409] {logging_mixin.py:115} INFO - [2023-07-28 00:05:45,409] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:05:45,525] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:05:45,557] {logging_mixin.py:115} INFO - [2023-07-28 00:05:45,556] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:05:45,624] {logging_mixin.py:115} INFO - [2023-07-28 00:05:45,624] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:05:45,666] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.266 seconds
+[2023-07-28 00:06:15,773] {processor.py:153} INFO - Started process (PID=1839) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:06:15,778] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:06:15,781] {logging_mixin.py:115} INFO - [2023-07-28 00:06:15,781] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:06:15,857] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:06:15,891] {logging_mixin.py:115} INFO - [2023-07-28 00:06:15,891] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:06:15,938] {logging_mixin.py:115} INFO - [2023-07-28 00:06:15,938] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:06:15,960] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.193 seconds
+[2023-07-28 00:06:46,103] {processor.py:153} INFO - Started process (PID=1858) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:06:46,111] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:06:46,119] {logging_mixin.py:115} INFO - [2023-07-28 00:06:46,118] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:06:46,258] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:06:46,284] {logging_mixin.py:115} INFO - [2023-07-28 00:06:46,283] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:06:46,320] {logging_mixin.py:115} INFO - [2023-07-28 00:06:46,320] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:06:46,341] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.252 seconds
+[2023-07-28 00:07:16,443] {processor.py:153} INFO - Started process (PID=1888) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:07:16,445] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:07:16,448] {logging_mixin.py:115} INFO - [2023-07-28 00:07:16,448] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:07:16,526] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:07:16,557] {logging_mixin.py:115} INFO - [2023-07-28 00:07:16,557] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:07:16,598] {logging_mixin.py:115} INFO - [2023-07-28 00:07:16,598] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:07:16,623] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.186 seconds
+[2023-07-28 00:07:46,832] {processor.py:153} INFO - Started process (PID=1908) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:07:46,846] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:07:46,848] {logging_mixin.py:115} INFO - [2023-07-28 00:07:46,847] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:07:47,066] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:07:47,115] {logging_mixin.py:115} INFO - [2023-07-28 00:07:47,115] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:07:47,168] {logging_mixin.py:115} INFO - [2023-07-28 00:07:47,168] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:07:47,226] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.412 seconds
+[2023-07-28 00:08:17,479] {processor.py:153} INFO - Started process (PID=1936) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:08:17,481] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:08:17,482] {logging_mixin.py:115} INFO - [2023-07-28 00:08:17,482] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:08:17,553] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:08:17,606] {logging_mixin.py:115} INFO - [2023-07-28 00:08:17,606] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:08:17,664] {logging_mixin.py:115} INFO - [2023-07-28 00:08:17,663] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:08:17,918] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.445 seconds
+[2023-07-28 00:08:48,021] {processor.py:153} INFO - Started process (PID=1956) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:08:48,024] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:08:48,025] {logging_mixin.py:115} INFO - [2023-07-28 00:08:48,025] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:08:48,095] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:08:48,126] {logging_mixin.py:115} INFO - [2023-07-28 00:08:48,126] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:08:48,181] {logging_mixin.py:115} INFO - [2023-07-28 00:08:48,181] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:08:48,202] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.187 seconds
+[2023-07-28 00:09:18,304] {processor.py:153} INFO - Started process (PID=1984) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:09:18,307] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:09:18,311] {logging_mixin.py:115} INFO - [2023-07-28 00:09:18,311] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:09:18,390] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:09:18,424] {logging_mixin.py:115} INFO - [2023-07-28 00:09:18,423] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:09:18,504] {logging_mixin.py:115} INFO - [2023-07-28 00:09:18,504] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:09:18,558] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.261 seconds
+[2023-07-28 00:09:49,461] {processor.py:153} INFO - Started process (PID=2003) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:09:49,464] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:09:49,467] {logging_mixin.py:115} INFO - [2023-07-28 00:09:49,466] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:09:49,520] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:09:49,542] {logging_mixin.py:115} INFO - [2023-07-28 00:09:49,541] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:09:49,574] {logging_mixin.py:115} INFO - [2023-07-28 00:09:49,574] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:09:49,592] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.146 seconds
+[2023-07-28 00:10:19,770] {processor.py:153} INFO - Started process (PID=2030) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:10:19,775] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:10:19,779] {logging_mixin.py:115} INFO - [2023-07-28 00:10:19,778] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:10:19,969] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:10:20,033] {logging_mixin.py:115} INFO - [2023-07-28 00:10:20,033] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:10:20,172] {logging_mixin.py:115} INFO - [2023-07-28 00:10:20,172] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:10:20,222] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.463 seconds
+[2023-07-28 00:10:50,473] {processor.py:153} INFO - Started process (PID=2052) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:10:50,475] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:10:50,479] {logging_mixin.py:115} INFO - [2023-07-28 00:10:50,478] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:10:50,636] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:10:50,681] {logging_mixin.py:115} INFO - [2023-07-28 00:10:50,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:10:50,729] {logging_mixin.py:115} INFO - [2023-07-28 00:10:50,729] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:10:50,758] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.300 seconds
+[2023-07-28 00:11:20,888] {processor.py:153} INFO - Started process (PID=2073) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:11:20,890] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:11:20,892] {logging_mixin.py:115} INFO - [2023-07-28 00:11:20,892] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:11:20,970] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:11:20,997] {logging_mixin.py:115} INFO - [2023-07-28 00:11:20,997] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:11:21,031] {logging_mixin.py:115} INFO - [2023-07-28 00:11:21,031] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:11:21,060] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.178 seconds
+[2023-07-28 00:11:51,199] {processor.py:153} INFO - Started process (PID=2100) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:11:51,206] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:11:51,211] {logging_mixin.py:115} INFO - [2023-07-28 00:11:51,210] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:11:51,318] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:11:51,362] {logging_mixin.py:115} INFO - [2023-07-28 00:11:51,362] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:11:51,397] {logging_mixin.py:115} INFO - [2023-07-28 00:11:51,397] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:11:51,422] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.233 seconds
+[2023-07-28 00:12:21,519] {processor.py:153} INFO - Started process (PID=2123) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:12:21,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:12:21,523] {logging_mixin.py:115} INFO - [2023-07-28 00:12:21,523] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:12:21,587] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:12:21,618] {logging_mixin.py:115} INFO - [2023-07-28 00:12:21,618] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:12:21,678] {logging_mixin.py:115} INFO - [2023-07-28 00:12:21,678] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:12:21,708] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.196 seconds
+[2023-07-28 00:12:51,821] {processor.py:153} INFO - Started process (PID=2143) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:12:51,824] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:12:51,826] {logging_mixin.py:115} INFO - [2023-07-28 00:12:51,825] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:12:51,890] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:12:51,932] {logging_mixin.py:115} INFO - [2023-07-28 00:12:51,932] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:12:51,967] {logging_mixin.py:115} INFO - [2023-07-28 00:12:51,967] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:12:52,026] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.213 seconds
+[2023-07-28 00:13:22,141] {processor.py:153} INFO - Started process (PID=2172) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:13:22,143] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:13:22,145] {logging_mixin.py:115} INFO - [2023-07-28 00:13:22,145] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:13:22,211] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:13:22,237] {logging_mixin.py:115} INFO - [2023-07-28 00:13:22,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:13:22,279] {logging_mixin.py:115} INFO - [2023-07-28 00:13:22,279] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:13:22,300] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.165 seconds
+[2023-07-28 00:13:52,403] {processor.py:153} INFO - Started process (PID=2192) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:13:52,404] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:13:52,409] {logging_mixin.py:115} INFO - [2023-07-28 00:13:52,408] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:13:52,544] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:13:52,588] {logging_mixin.py:115} INFO - [2023-07-28 00:13:52,587] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:13:52,694] {logging_mixin.py:115} INFO - [2023-07-28 00:13:52,693] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:13:52,737] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.340 seconds
+[2023-07-28 00:14:22,985] {processor.py:153} INFO - Started process (PID=2222) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:14:22,989] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:14:22,995] {logging_mixin.py:115} INFO - [2023-07-28 00:14:22,994] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:14:23,106] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:14:23,131] {logging_mixin.py:115} INFO - [2023-07-28 00:14:23,131] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:14:23,168] {logging_mixin.py:115} INFO - [2023-07-28 00:14:23,168] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:14:23,194] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.226 seconds
+[2023-07-28 00:14:53,447] {processor.py:153} INFO - Started process (PID=2242) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:14:53,449] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:14:53,452] {logging_mixin.py:115} INFO - [2023-07-28 00:14:53,452] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:14:53,537] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:14:53,565] {logging_mixin.py:115} INFO - [2023-07-28 00:14:53,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:14:53,605] {logging_mixin.py:115} INFO - [2023-07-28 00:14:53,605] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:14:53,625] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.186 seconds
+[2023-07-28 00:15:23,787] {processor.py:153} INFO - Started process (PID=2272) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:15:23,792] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:15:23,796] {logging_mixin.py:115} INFO - [2023-07-28 00:15:23,795] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:15:23,929] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:15:24,020] {logging_mixin.py:115} INFO - [2023-07-28 00:15:24,020] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:15:24,077] {logging_mixin.py:115} INFO - [2023-07-28 00:15:24,077] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:15:24,108] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.333 seconds
+[2023-07-28 00:15:54,295] {processor.py:153} INFO - Started process (PID=2292) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:15:54,299] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:15:54,304] {logging_mixin.py:115} INFO - [2023-07-28 00:15:54,303] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:15:54,371] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:15:54,404] {logging_mixin.py:115} INFO - [2023-07-28 00:15:54,404] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:15:54,464] {logging_mixin.py:115} INFO - [2023-07-28 00:15:54,464] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:15:54,501] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.221 seconds
+[2023-07-28 00:16:24,654] {processor.py:153} INFO - Started process (PID=2312) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:16:24,661] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:16:24,663] {logging_mixin.py:115} INFO - [2023-07-28 00:16:24,663] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:16:24,843] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:16:24,912] {logging_mixin.py:115} INFO - [2023-07-28 00:16:24,912] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:16:25,020] {logging_mixin.py:115} INFO - [2023-07-28 00:16:25,020] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:16:25,060] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.422 seconds
+[2023-07-28 00:16:55,162] {processor.py:153} INFO - Started process (PID=2341) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:16:55,165] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:16:55,168] {logging_mixin.py:115} INFO - [2023-07-28 00:16:55,167] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:16:55,251] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:16:55,287] {logging_mixin.py:115} INFO - [2023-07-28 00:16:55,287] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:16:55,348] {logging_mixin.py:115} INFO - [2023-07-28 00:16:55,348] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:16:55,376] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.221 seconds
+[2023-07-28 00:17:25,488] {processor.py:153} INFO - Started process (PID=2361) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:17:25,490] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:17:25,494] {logging_mixin.py:115} INFO - [2023-07-28 00:17:25,494] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:17:25,557] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:17:25,581] {logging_mixin.py:115} INFO - [2023-07-28 00:17:25,581] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:17:25,616] {logging_mixin.py:115} INFO - [2023-07-28 00:17:25,616] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:17:25,638] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.156 seconds
+[2023-07-28 00:17:55,740] {processor.py:153} INFO - Started process (PID=2381) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:17:55,744] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:17:55,747] {logging_mixin.py:115} INFO - [2023-07-28 00:17:55,746] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:17:55,812] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:17:55,836] {logging_mixin.py:115} INFO - [2023-07-28 00:17:55,836] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:17:55,868] {logging_mixin.py:115} INFO - [2023-07-28 00:17:55,868] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:17:55,890] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.171 seconds
+[2023-07-28 00:18:26,046] {processor.py:153} INFO - Started process (PID=2411) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:18:26,047] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:18:26,053] {logging_mixin.py:115} INFO - [2023-07-28 00:18:26,052] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:18:26,129] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:18:26,154] {logging_mixin.py:115} INFO - [2023-07-28 00:18:26,154] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:18:26,192] {logging_mixin.py:115} INFO - [2023-07-28 00:18:26,192] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:18:26,213] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.174 seconds
+[2023-07-28 00:18:56,351] {processor.py:153} INFO - Started process (PID=2432) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:18:56,352] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:18:56,357] {logging_mixin.py:115} INFO - [2023-07-28 00:18:56,357] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:18:56,414] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:18:56,441] {logging_mixin.py:115} INFO - [2023-07-28 00:18:56,441] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:18:56,478] {logging_mixin.py:115} INFO - [2023-07-28 00:18:56,478] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:18:56,498] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.148 seconds
+[2023-07-28 00:19:26,628] {processor.py:153} INFO - Started process (PID=2462) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:19:26,633] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:19:26,640] {logging_mixin.py:115} INFO - [2023-07-28 00:19:26,640] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:19:26,737] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:19:26,773] {logging_mixin.py:115} INFO - [2023-07-28 00:19:26,773] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:19:26,833] {logging_mixin.py:115} INFO - [2023-07-28 00:19:26,832] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:19:26,867] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.247 seconds
+[2023-07-28 00:19:56,995] {processor.py:153} INFO - Started process (PID=2483) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:19:56,998] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:19:57,003] {logging_mixin.py:115} INFO - [2023-07-28 00:19:57,002] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:19:57,095] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:19:57,129] {logging_mixin.py:115} INFO - [2023-07-28 00:19:57,129] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:19:57,184] {logging_mixin.py:115} INFO - [2023-07-28 00:19:57,184] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:19:57,223] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.237 seconds
+[2023-07-28 00:20:27,384] {processor.py:153} INFO - Started process (PID=2512) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:20:27,389] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:20:27,391] {logging_mixin.py:115} INFO - [2023-07-28 00:20:27,391] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:20:27,495] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:20:27,550] {logging_mixin.py:115} INFO - [2023-07-28 00:20:27,550] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:20:27,607] {logging_mixin.py:115} INFO - [2023-07-28 00:20:27,606] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:20:27,639] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.267 seconds
+[2023-07-28 00:20:57,754] {processor.py:153} INFO - Started process (PID=2531) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:20:57,755] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:20:57,757] {logging_mixin.py:115} INFO - [2023-07-28 00:20:57,757] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:20:57,820] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:20:57,844] {logging_mixin.py:115} INFO - [2023-07-28 00:20:57,844] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:20:57,889] {logging_mixin.py:115} INFO - [2023-07-28 00:20:57,888] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:20:57,941] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.194 seconds
+[2023-07-28 00:21:28,051] {processor.py:153} INFO - Started process (PID=2560) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:21:28,053] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:21:28,057] {logging_mixin.py:115} INFO - [2023-07-28 00:21:28,056] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:21:28,124] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:21:28,155] {logging_mixin.py:115} INFO - [2023-07-28 00:21:28,155] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:21:28,189] {logging_mixin.py:115} INFO - [2023-07-28 00:21:28,189] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:21:28,221] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.179 seconds
+[2023-07-28 00:21:58,325] {processor.py:153} INFO - Started process (PID=2579) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:21:58,326] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:21:58,328] {logging_mixin.py:115} INFO - [2023-07-28 00:21:58,327] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:21:58,385] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:21:58,407] {logging_mixin.py:115} INFO - [2023-07-28 00:21:58,407] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:21:58,439] {logging_mixin.py:115} INFO - [2023-07-28 00:21:58,439] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:21:58,463] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.143 seconds
+[2023-07-28 00:22:28,573] {processor.py:153} INFO - Started process (PID=2608) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:22:28,575] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:22:28,579] {logging_mixin.py:115} INFO - [2023-07-28 00:22:28,579] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:22:28,695] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:22:28,732] {logging_mixin.py:115} INFO - [2023-07-28 00:22:28,732] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:22:28,772] {logging_mixin.py:115} INFO - [2023-07-28 00:22:28,772] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:22:28,801] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.235 seconds
+[2023-07-28 00:22:58,943] {processor.py:153} INFO - Started process (PID=2628) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:22:58,945] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:22:58,947] {logging_mixin.py:115} INFO - [2023-07-28 00:22:58,947] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:22:59,010] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:22:59,033] {logging_mixin.py:115} INFO - [2023-07-28 00:22:59,033] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:22:59,065] {logging_mixin.py:115} INFO - [2023-07-28 00:22:59,065] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:22:59,083] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.150 seconds
+[2023-07-28 00:23:29,295] {processor.py:153} INFO - Started process (PID=2657) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:23:29,299] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:23:29,303] {logging_mixin.py:115} INFO - [2023-07-28 00:23:29,303] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:23:29,409] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:23:29,441] {logging_mixin.py:115} INFO - [2023-07-28 00:23:29,441] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:23:29,491] {logging_mixin.py:115} INFO - [2023-07-28 00:23:29,490] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:23:29,515] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.236 seconds
+[2023-07-28 00:23:59,664] {processor.py:153} INFO - Started process (PID=2677) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:23:59,669] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:23:59,671] {logging_mixin.py:115} INFO - [2023-07-28 00:23:59,671] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:23:59,745] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:23:59,773] {logging_mixin.py:115} INFO - [2023-07-28 00:23:59,773] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:23:59,810] {logging_mixin.py:115} INFO - [2023-07-28 00:23:59,810] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:23:59,833] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.194 seconds
+[2023-07-28 00:24:29,950] {processor.py:153} INFO - Started process (PID=2705) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:24:29,952] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:24:29,956] {logging_mixin.py:115} INFO - [2023-07-28 00:24:29,956] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:24:30,038] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:24:30,094] {logging_mixin.py:115} INFO - [2023-07-28 00:24:30,094] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:24:30,174] {logging_mixin.py:115} INFO - [2023-07-28 00:24:30,174] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:24:30,200] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.257 seconds
+[2023-07-28 00:25:00,328] {processor.py:153} INFO - Started process (PID=2725) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:25:00,329] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:25:00,331] {logging_mixin.py:115} INFO - [2023-07-28 00:25:00,331] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:25:00,398] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:25:00,424] {logging_mixin.py:115} INFO - [2023-07-28 00:25:00,424] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:25:00,465] {logging_mixin.py:115} INFO - [2023-07-28 00:25:00,465] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:25:00,487] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.170 seconds
+[2023-07-28 00:25:30,598] {processor.py:153} INFO - Started process (PID=2753) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:25:30,599] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:25:30,601] {logging_mixin.py:115} INFO - [2023-07-28 00:25:30,601] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:25:30,663] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:25:30,683] {logging_mixin.py:115} INFO - [2023-07-28 00:25:30,683] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:25:30,722] {logging_mixin.py:115} INFO - [2023-07-28 00:25:30,722] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:25:30,754] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.164 seconds
+[2023-07-28 00:26:00,874] {processor.py:153} INFO - Started process (PID=2773) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:26:00,876] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:26:00,880] {logging_mixin.py:115} INFO - [2023-07-28 00:26:00,880] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:26:00,939] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:26:00,963] {logging_mixin.py:115} INFO - [2023-07-28 00:26:00,963] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:26:00,995] {logging_mixin.py:115} INFO - [2023-07-28 00:26:00,995] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:26:01,015] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.150 seconds
+[2023-07-28 00:26:31,185] {processor.py:153} INFO - Started process (PID=2802) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:26:31,189] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:26:31,204] {logging_mixin.py:115} INFO - [2023-07-28 00:26:31,203] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:26:31,378] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:26:31,469] {logging_mixin.py:115} INFO - [2023-07-28 00:26:31,469] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:26:31,538] {logging_mixin.py:115} INFO - [2023-07-28 00:26:31,538] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:26:31,585] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.432 seconds
+[2023-07-28 00:27:01,746] {processor.py:153} INFO - Started process (PID=2824) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:27:01,752] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:27:01,756] {logging_mixin.py:115} INFO - [2023-07-28 00:27:01,755] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:27:01,867] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:27:01,905] {logging_mixin.py:115} INFO - [2023-07-28 00:27:01,905] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:27:01,968] {logging_mixin.py:115} INFO - [2023-07-28 00:27:01,968] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:27:02,037] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.300 seconds
+[2023-07-28 00:27:32,230] {processor.py:153} INFO - Started process (PID=2844) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:27:32,232] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:27:32,234] {logging_mixin.py:115} INFO - [2023-07-28 00:27:32,234] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:27:32,361] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:27:32,392] {logging_mixin.py:115} INFO - [2023-07-28 00:27:32,392] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:27:32,456] {logging_mixin.py:115} INFO - [2023-07-28 00:27:32,456] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:27:32,518] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.300 seconds
+[2023-07-28 00:28:02,774] {processor.py:153} INFO - Started process (PID=2873) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:28:02,778] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:28:02,788] {logging_mixin.py:115} INFO - [2023-07-28 00:28:02,788] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:28:02,908] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:28:02,958] {logging_mixin.py:115} INFO - [2023-07-28 00:28:02,957] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:28:03,022] {logging_mixin.py:115} INFO - [2023-07-28 00:28:03,021] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:28:03,054] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.295 seconds
+[2023-07-28 00:28:33,228] {processor.py:153} INFO - Started process (PID=2892) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:28:33,230] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:28:33,232] {logging_mixin.py:115} INFO - [2023-07-28 00:28:33,232] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:28:33,297] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:28:33,321] {logging_mixin.py:115} INFO - [2023-07-28 00:28:33,321] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:28:33,363] {logging_mixin.py:115} INFO - [2023-07-28 00:28:33,363] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:28:33,385] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.167 seconds
+[2023-07-28 00:29:03,552] {processor.py:153} INFO - Started process (PID=2922) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:29:03,563] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:29:03,575] {logging_mixin.py:115} INFO - [2023-07-28 00:29:03,575] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:29:03,695] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:29:03,741] {logging_mixin.py:115} INFO - [2023-07-28 00:29:03,741] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:29:03,819] {logging_mixin.py:115} INFO - [2023-07-28 00:29:03,818] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:29:03,862] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.317 seconds
+[2023-07-28 00:29:34,670] {processor.py:153} INFO - Started process (PID=2942) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:29:34,672] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:29:34,676] {logging_mixin.py:115} INFO - [2023-07-28 00:29:34,676] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:29:34,744] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:29:34,766] {logging_mixin.py:115} INFO - [2023-07-28 00:29:34,766] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:29:34,801] {logging_mixin.py:115} INFO - [2023-07-28 00:29:34,800] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:29:34,827] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.165 seconds
+[2023-07-28 00:30:05,084] {processor.py:153} INFO - Started process (PID=2972) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:30:05,097] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:30:05,099] {logging_mixin.py:115} INFO - [2023-07-28 00:30:05,099] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:30:05,409] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:30:05,451] {logging_mixin.py:115} INFO - [2023-07-28 00:30:05,451] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:30:05,558] {logging_mixin.py:115} INFO - [2023-07-28 00:30:05,558] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:30:05,641] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.579 seconds
+[2023-07-28 00:30:36,325] {processor.py:153} INFO - Started process (PID=2993) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:30:36,329] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:30:36,332] {logging_mixin.py:115} INFO - [2023-07-28 00:30:36,331] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:30:36,402] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:30:36,432] {logging_mixin.py:115} INFO - [2023-07-28 00:30:36,432] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:30:36,484] {logging_mixin.py:115} INFO - [2023-07-28 00:30:36,483] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:30:36,515] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.196 seconds
+[2023-07-28 00:31:06,643] {processor.py:153} INFO - Started process (PID=3013) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:31:06,648] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:31:06,654] {logging_mixin.py:115} INFO - [2023-07-28 00:31:06,653] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:31:06,827] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:31:06,853] {logging_mixin.py:115} INFO - [2023-07-28 00:31:06,852] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:31:06,885] {logging_mixin.py:115} INFO - [2023-07-28 00:31:06,885] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:31:06,908] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.281 seconds
+[2023-07-28 00:31:37,075] {processor.py:153} INFO - Started process (PID=3043) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:31:37,081] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:31:37,091] {logging_mixin.py:115} INFO - [2023-07-28 00:31:37,090] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:31:37,191] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:31:37,219] {logging_mixin.py:115} INFO - [2023-07-28 00:31:37,219] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:31:37,262] {logging_mixin.py:115} INFO - [2023-07-28 00:31:37,262] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:31:37,286] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.230 seconds
+[2023-07-28 00:32:07,412] {processor.py:153} INFO - Started process (PID=3063) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:32:07,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:32:07,415] {logging_mixin.py:115} INFO - [2023-07-28 00:32:07,415] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:32:07,540] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:32:07,605] {logging_mixin.py:115} INFO - [2023-07-28 00:32:07,605] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:32:07,651] {logging_mixin.py:115} INFO - [2023-07-28 00:32:07,651] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:32:07,718] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.315 seconds
+[2023-07-28 00:32:37,885] {processor.py:153} INFO - Started process (PID=3093) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:32:37,887] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:32:37,890] {logging_mixin.py:115} INFO - [2023-07-28 00:32:37,889] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:32:38,034] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:32:38,080] {logging_mixin.py:115} INFO - [2023-07-28 00:32:38,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:32:38,135] {logging_mixin.py:115} INFO - [2023-07-28 00:32:38,135] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:32:38,168] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.296 seconds
+[2023-07-28 00:33:08,346] {processor.py:153} INFO - Started process (PID=3112) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:33:08,351] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:33:08,362] {logging_mixin.py:115} INFO - [2023-07-28 00:33:08,361] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:33:08,460] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:33:08,484] {logging_mixin.py:115} INFO - [2023-07-28 00:33:08,484] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:33:08,517] {logging_mixin.py:115} INFO - [2023-07-28 00:33:08,517] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:33:08,539] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.217 seconds
+[2023-07-28 00:33:38,818] {processor.py:153} INFO - Started process (PID=3142) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:33:38,819] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:33:38,822] {logging_mixin.py:115} INFO - [2023-07-28 00:33:38,821] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:33:38,913] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:33:38,956] {logging_mixin.py:115} INFO - [2023-07-28 00:33:38,956] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:33:39,009] {logging_mixin.py:115} INFO - [2023-07-28 00:33:39,009] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:33:39,036] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.224 seconds
+[2023-07-28 00:34:09,205] {processor.py:153} INFO - Started process (PID=3160) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:34:09,207] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:34:09,209] {logging_mixin.py:115} INFO - [2023-07-28 00:34:09,208] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:34:09,282] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:34:09,306] {logging_mixin.py:115} INFO - [2023-07-28 00:34:09,306] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:34:09,346] {logging_mixin.py:115} INFO - [2023-07-28 00:34:09,345] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:34:09,372] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.174 seconds
+[2023-07-28 00:34:39,545] {processor.py:153} INFO - Started process (PID=3182) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:34:39,546] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:34:39,548] {logging_mixin.py:115} INFO - [2023-07-28 00:34:39,547] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:34:39,604] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:34:39,639] {logging_mixin.py:115} INFO - [2023-07-28 00:34:39,638] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:34:39,674] {logging_mixin.py:115} INFO - [2023-07-28 00:34:39,674] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:34:39,696] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.158 seconds
+[2023-07-28 00:35:09,875] {processor.py:153} INFO - Started process (PID=3209) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:35:09,878] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:35:09,881] {logging_mixin.py:115} INFO - [2023-07-28 00:35:09,881] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:35:09,981] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:35:10,016] {logging_mixin.py:115} INFO - [2023-07-28 00:35:10,015] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:35:10,074] {logging_mixin.py:115} INFO - [2023-07-28 00:35:10,073] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:35:10,112] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.263 seconds
+[2023-07-28 00:35:40,204] {processor.py:153} INFO - Started process (PID=3230) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:35:40,207] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:35:40,210] {logging_mixin.py:115} INFO - [2023-07-28 00:35:40,210] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:35:40,271] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:35:40,292] {logging_mixin.py:115} INFO - [2023-07-28 00:35:40,291] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:35:40,325] {logging_mixin.py:115} INFO - [2023-07-28 00:35:40,325] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:35:40,359] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.163 seconds
+[2023-07-28 00:36:10,496] {processor.py:153} INFO - Started process (PID=3257) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:36:10,499] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:36:10,511] {logging_mixin.py:115} INFO - [2023-07-28 00:36:10,511] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:36:10,735] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:36:10,881] {logging_mixin.py:115} INFO - [2023-07-28 00:36:10,881] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:36:11,060] {logging_mixin.py:115} INFO - [2023-07-28 00:36:11,055] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:36:11,146] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.665 seconds
+[2023-07-28 00:36:41,283] {processor.py:153} INFO - Started process (PID=3280) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:36:41,284] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:36:41,286] {logging_mixin.py:115} INFO - [2023-07-28 00:36:41,286] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:36:41,351] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:36:41,375] {logging_mixin.py:115} INFO - [2023-07-28 00:36:41,375] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:36:41,409] {logging_mixin.py:115} INFO - [2023-07-28 00:36:41,409] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:36:41,448] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.175 seconds
+[2023-07-28 00:37:11,593] {processor.py:153} INFO - Started process (PID=3301) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:37:11,596] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:37:11,602] {logging_mixin.py:115} INFO - [2023-07-28 00:37:11,601] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:37:11,722] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:37:11,775] {logging_mixin.py:115} INFO - [2023-07-28 00:37:11,775] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:37:11,850] {logging_mixin.py:115} INFO - [2023-07-28 00:37:11,850] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:37:11,886] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.302 seconds
+[2023-07-28 00:37:42,057] {processor.py:153} INFO - Started process (PID=3327) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:37:42,060] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:37:42,061] {logging_mixin.py:115} INFO - [2023-07-28 00:37:42,061] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:37:42,204] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:37:42,249] {logging_mixin.py:115} INFO - [2023-07-28 00:37:42,249] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:37:42,318] {logging_mixin.py:115} INFO - [2023-07-28 00:37:42,318] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:37:42,390] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.347 seconds
+[2023-07-28 00:38:12,542] {processor.py:153} INFO - Started process (PID=3349) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:38:12,544] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:38:12,549] {logging_mixin.py:115} INFO - [2023-07-28 00:38:12,548] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:38:12,639] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:38:12,672] {logging_mixin.py:115} INFO - [2023-07-28 00:38:12,672] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:38:12,724] {logging_mixin.py:115} INFO - [2023-07-28 00:38:12,724] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:38:12,753] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.218 seconds
+[2023-07-28 00:38:42,898] {processor.py:153} INFO - Started process (PID=3370) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:38:42,900] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:38:42,903] {logging_mixin.py:115} INFO - [2023-07-28 00:38:42,902] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:38:42,986] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:38:43,025] {logging_mixin.py:115} INFO - [2023-07-28 00:38:43,025] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:38:43,066] {logging_mixin.py:115} INFO - [2023-07-28 00:38:43,066] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:38:43,092] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.201 seconds
+[2023-07-28 00:39:13,237] {processor.py:153} INFO - Started process (PID=3400) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:39:13,248] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:39:13,253] {logging_mixin.py:115} INFO - [2023-07-28 00:39:13,252] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:39:13,413] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:39:13,450] {logging_mixin.py:115} INFO - [2023-07-28 00:39:13,450] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:39:13,501] {logging_mixin.py:115} INFO - [2023-07-28 00:39:13,500] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:39:13,531] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.307 seconds
+[2023-07-28 00:39:43,681] {processor.py:153} INFO - Started process (PID=3421) to work on /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:39:43,684] {processor.py:641} INFO - Processing file /opt/airflow/dags/etl_compliment.py for tasks to queue
+[2023-07-28 00:39:43,687] {logging_mixin.py:115} INFO - [2023-07-28 00:39:43,686] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:39:43,777] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/etl_compliment.py
+[2023-07-28 00:39:43,820] {logging_mixin.py:115} INFO - [2023-07-28 00:39:43,820] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-28 00:39:43,883] {logging_mixin.py:115} INFO - [2023-07-28 00:39:43,883] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-28 00:39:43,929] {processor.py:161} INFO - Processing /opt/airflow/dags/etl_compliment.py took 0.256 seconds

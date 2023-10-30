@@ -1,0 +1,104 @@
+[2023-07-27 23:53:22,595] {processor.py:153} INFO - Started process (PID=1199) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:53:22,600] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:53:22,601] {logging_mixin.py:115} INFO - [2023-07-27 23:53:22,601] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:53:22,669] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_1970_v0_1', 'etl_compliment_batch_2011_v0_1', 'etl_compliment_batch_2013_v0_1', 'etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:53:22,821] {logging_mixin.py:115} INFO - [2023-07-27 23:53:22,821] {dag.py:2379} INFO - Sync 4 DAGs
+[2023-07-27 23:53:23,104] {logging_mixin.py:115} INFO - [2023-07-27 23:53:23,104] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_1970_v0_1 to 1969-12-31T17:00:00+00:00, run_after=1970-01-01T17:00:00+00:00
+[2023-07-27 23:53:23,109] {logging_mixin.py:115} INFO - [2023-07-27 23:53:23,109] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2011_v0_1 to 2010-12-31T17:00:00+00:00, run_after=2011-01-01T17:00:00+00:00
+[2023-07-27 23:53:23,114] {logging_mixin.py:115} INFO - [2023-07-27 23:53:23,113] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2013_v0_1 to 2012-12-31T17:00:00+00:00, run_after=2013-01-01T17:00:00+00:00
+[2023-07-27 23:53:23,116] {logging_mixin.py:115} INFO - [2023-07-27 23:53:23,116] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:53:23,147] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.558 seconds
+[2023-07-27 23:53:53,913] {processor.py:153} INFO - Started process (PID=1229) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:53:53,917] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:53:53,922] {logging_mixin.py:115} INFO - [2023-07-27 23:53:53,922] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:53:54,012] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_1970_v0_1', 'etl_compliment_batch_2011_v0_1', 'etl_compliment_batch_2013_v0_1', 'etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:53:54,058] {logging_mixin.py:115} INFO - [2023-07-27 23:53:54,058] {dag.py:2379} INFO - Sync 4 DAGs
+[2023-07-27 23:53:54,109] {logging_mixin.py:115} INFO - [2023-07-27 23:53:54,109] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_1970_v0_1 to 1969-12-31T17:00:00+00:00, run_after=1970-01-01T17:00:00+00:00
+[2023-07-27 23:53:54,114] {logging_mixin.py:115} INFO - [2023-07-27 23:53:54,114] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2011_v0_1 to 2010-12-31T17:00:00+00:00, run_after=2011-01-01T17:00:00+00:00
+[2023-07-27 23:53:54,117] {logging_mixin.py:115} INFO - [2023-07-27 23:53:54,117] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2013_v0_1 to 2012-12-31T17:00:00+00:00, run_after=2013-01-01T17:00:00+00:00
+[2023-07-27 23:53:54,118] {logging_mixin.py:115} INFO - [2023-07-27 23:53:54,118] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:53:54,137] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.239 seconds
+[2023-07-27 23:54:24,237] {processor.py:153} INFO - Started process (PID=1258) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:54:24,239] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:54:24,241] {logging_mixin.py:115} INFO - [2023-07-27 23:54:24,241] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:54:24,313] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_batch_1970_v0_1', 'etl_compliment_batch_2011_v0_1', 'etl_compliment_batch_2013_v0_1', 'etl_compliment_batch_2020-realtime_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:54:24,325] {logging_mixin.py:115} INFO - [2023-07-27 23:54:24,325] {dag.py:2379} INFO - Sync 4 DAGs
+[2023-07-27 23:54:24,359] {logging_mixin.py:115} INFO - [2023-07-27 23:54:24,359] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_1970_v0_1 to 1969-12-31T17:00:00+00:00, run_after=1970-01-01T17:00:00+00:00
+[2023-07-27 23:54:24,362] {logging_mixin.py:115} INFO - [2023-07-27 23:54:24,362] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2011_v0_1 to 2010-12-31T17:00:00+00:00, run_after=2011-01-01T17:00:00+00:00
+[2023-07-27 23:54:24,364] {logging_mixin.py:115} INFO - [2023-07-27 23:54:24,364] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2013_v0_1 to 2012-12-31T17:00:00+00:00, run_after=2013-01-01T17:00:00+00:00
+[2023-07-27 23:54:24,367] {logging_mixin.py:115} INFO - [2023-07-27 23:54:24,367] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_batch_2020-realtime_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:54:24,392] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.159 seconds
+[2023-07-27 23:54:54,553] {processor.py:153} INFO - Started process (PID=1278) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:54:54,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:54:54,559] {logging_mixin.py:115} INFO - [2023-07-27 23:54:54,558] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:54:54,624] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:54:54,858] {logging_mixin.py:115} INFO - [2023-07-27 23:54:54,858] {manager.py:508} INFO - Created Permission View: can edit on DAG:etl_compliment_v0_1
+[2023-07-27 23:54:54,877] {logging_mixin.py:115} INFO - [2023-07-27 23:54:54,877] {manager.py:508} INFO - Created Permission View: can read on DAG:etl_compliment_v0_1
+[2023-07-27 23:54:54,893] {logging_mixin.py:115} INFO - [2023-07-27 23:54:54,892] {manager.py:508} INFO - Created Permission View: can delete on DAG:etl_compliment_v0_1
+[2023-07-27 23:54:54,893] {logging_mixin.py:115} INFO - [2023-07-27 23:54:54,893] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:54:54,907] {logging_mixin.py:115} INFO - [2023-07-27 23:54:54,907] {dag.py:2398} INFO - Creating ORM DAG for etl_compliment_v0_1
+[2023-07-27 23:54:54,928] {logging_mixin.py:115} INFO - [2023-07-27 23:54:54,928] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:54:54,956] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.415 seconds
+[2023-07-27 23:55:25,665] {processor.py:153} INFO - Started process (PID=1307) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:55:25,667] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:55:25,669] {logging_mixin.py:115} INFO - [2023-07-27 23:55:25,669] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:55:25,746] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:55:25,824] {logging_mixin.py:115} INFO - [2023-07-27 23:55:25,824] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:55:25,989] {logging_mixin.py:115} INFO - [2023-07-27 23:55:25,989] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:55:26,014] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.357 seconds
+[2023-07-27 23:55:56,116] {processor.py:153} INFO - Started process (PID=1328) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:55:56,118] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:55:56,120] {logging_mixin.py:115} INFO - [2023-07-27 23:55:56,120] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:55:56,182] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:55:56,297] {logging_mixin.py:115} INFO - [2023-07-27 23:55:56,297] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:55:56,492] {logging_mixin.py:115} INFO - [2023-07-27 23:55:56,492] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:55:56,523] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.411 seconds
+[2023-07-27 23:56:26,637] {processor.py:153} INFO - Started process (PID=1357) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:56:26,640] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:56:26,642] {logging_mixin.py:115} INFO - [2023-07-27 23:56:26,642] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:56:26,703] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:56:26,724] {logging_mixin.py:115} INFO - [2023-07-27 23:56:26,724] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:56:26,758] {logging_mixin.py:115} INFO - [2023-07-27 23:56:26,758] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:56:26,777] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.147 seconds
+[2023-07-27 23:56:56,903] {processor.py:153} INFO - Started process (PID=1377) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:56:56,905] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:56:56,909] {logging_mixin.py:115} INFO - [2023-07-27 23:56:56,909] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:56:57,010] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:56:57,036] {logging_mixin.py:115} INFO - [2023-07-27 23:56:57,036] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:56:57,078] {logging_mixin.py:115} INFO - [2023-07-27 23:56:57,078] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:56:57,098] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.205 seconds
+[2023-07-27 23:57:27,211] {processor.py:153} INFO - Started process (PID=1405) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:57:27,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:57:27,216] {logging_mixin.py:115} INFO - [2023-07-27 23:57:27,215] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:57:27,309] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:57:27,422] {logging_mixin.py:115} INFO - [2023-07-27 23:57:27,422] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:57:27,641] {logging_mixin.py:115} INFO - [2023-07-27 23:57:27,641] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:57:27,688] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.482 seconds
+[2023-07-27 23:57:58,278] {processor.py:153} INFO - Started process (PID=1433) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:57:58,281] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:57:58,285] {logging_mixin.py:115} INFO - [2023-07-27 23:57:58,285] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:57:58,395] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:57:58,462] {logging_mixin.py:115} INFO - [2023-07-27 23:57:58,462] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:57:58,500] {logging_mixin.py:115} INFO - [2023-07-27 23:57:58,500] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:57:58,522] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.252 seconds
+[2023-07-27 23:58:28,676] {processor.py:153} INFO - Started process (PID=1453) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:58:28,678] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:58:28,681] {logging_mixin.py:115} INFO - [2023-07-27 23:58:28,680] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:58:28,755] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:58:28,833] {logging_mixin.py:115} INFO - [2023-07-27 23:58:28,833] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:58:29,004] {logging_mixin.py:115} INFO - [2023-07-27 23:58:29,004] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:58:29,027] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.358 seconds
+[2023-07-27 23:58:59,138] {processor.py:153} INFO - Started process (PID=1480) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:58:59,140] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:58:59,149] {logging_mixin.py:115} INFO - [2023-07-27 23:58:59,149] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:58:59,275] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:58:59,315] {logging_mixin.py:115} INFO - [2023-07-27 23:58:59,315] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:58:59,377] {logging_mixin.py:115} INFO - [2023-07-27 23:58:59,377] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2019-12-31T17:00:00+00:00, run_after=2020-01-01T17:00:00+00:00
+[2023-07-27 23:58:59,407] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.280 seconds
+[2023-07-27 23:59:29,573] {processor.py:153} INFO - Started process (PID=1503) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:59:29,578] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-07-27 23:59:29,594] {logging_mixin.py:115} INFO - [2023-07-27 23:59:29,593] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:59:29,813] {processor.py:651} INFO - DAG(s) dict_keys(['etl_compliment_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-07-27 23:59:29,940] {logging_mixin.py:115} INFO - [2023-07-27 23:59:29,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-27 23:59:30,147] {logging_mixin.py:115} INFO - [2023-07-27 23:59:30,147] {dag.py:2931} INFO - Setting next_dagrun for etl_compliment_v0_1 to 2022-01-27T17:00:00+00:00, run_after=2022-01-28T17:00:00+00:00
+[2023-07-27 23:59:30,174] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.623 seconds

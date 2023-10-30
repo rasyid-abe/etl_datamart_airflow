@@ -1,0 +1,231 @@
+[2023-10-20T04:36:59.779+0000] {processor.py:153} INFO - Started process (PID=76) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:36:59.791+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:36:59.793+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:36:59.793+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:37:00.307+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:37:00.913+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:37:00.907+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:37:01.357+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:37:01.356+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:37:01.469+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 1.733 seconds
+[2023-10-20T04:37:35.481+0000] {processor.py:153} INFO - Started process (PID=107) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:37:35.501+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:37:35.516+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:37:35.516+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:37:36.480+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:37:37.111+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:37:37.111+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:37:37.664+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:37:37.664+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:37:37.842+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 2.475 seconds
+[2023-10-20T04:38:08.105+0000] {processor.py:153} INFO - Started process (PID=129) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:38:08.112+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:38:08.120+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:38:08.119+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:38:08.269+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:38:08.309+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:38:08.309+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:38:08.379+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:38:08.379+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:38:08.448+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.367 seconds
+[2023-10-20T04:38:39.274+0000] {processor.py:153} INFO - Started process (PID=159) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:38:39.294+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:38:39.301+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:38:39.301+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:38:40.035+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:38:40.183+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:38:40.183+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:38:40.395+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:38:40.392+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:38:40.553+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 1.382 seconds
+[2023-10-20T04:39:10.853+0000] {processor.py:153} INFO - Started process (PID=190) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:39:10.864+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:39:10.866+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:39:10.866+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:39:11.022+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:39:11.083+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:39:11.083+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:39:11.254+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:39:11.253+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:39:11.391+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.554 seconds
+[2023-10-20T04:39:42.595+0000] {processor.py:153} INFO - Started process (PID=213) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:39:42.629+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:39:42.646+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:39:42.645+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:39:43.247+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:39:43.591+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:39:43.591+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:39:44.136+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:39:44.136+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:39:44.470+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 2.095 seconds
+[2023-10-20T04:40:15.056+0000] {processor.py:153} INFO - Started process (PID=246) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:40:15.059+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:40:15.064+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:40:15.063+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:40:15.156+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:40:15.199+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:40:15.199+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:40:15.261+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:40:15.261+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:40:15.317+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.269 seconds
+[2023-10-20T04:40:45.831+0000] {processor.py:153} INFO - Started process (PID=280) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:40:45.840+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:40:45.852+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:40:45.851+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:40:45.957+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:40:46.004+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:40:46.004+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:40:46.100+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:40:46.100+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:40:46.172+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.351 seconds
+[2023-10-20T04:41:16.456+0000] {processor.py:153} INFO - Started process (PID=301) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:41:16.474+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:41:16.486+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:41:16.486+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:41:16.924+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:41:17.102+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:41:17.102+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:41:17.401+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:41:17.401+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:41:17.883+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 1.451 seconds
+[2023-10-20T04:41:48.462+0000] {processor.py:153} INFO - Started process (PID=333) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:41:48.464+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:41:48.468+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:41:48.467+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:41:48.585+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:41:48.630+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:41:48.630+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:41:48.695+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:41:48.694+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:41:48.751+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.298 seconds
+[2023-10-20T04:42:18.898+0000] {processor.py:153} INFO - Started process (PID=365) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:42:18.904+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:42:18.924+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:42:18.923+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:42:19.122+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:42:19.259+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:42:19.259+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:42:19.411+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:42:19.411+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:42:19.473+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.591 seconds
+[2023-10-20T04:42:49.784+0000] {processor.py:153} INFO - Started process (PID=397) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:42:49.789+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:42:49.806+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:42:49.805+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:42:50.231+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:42:50.350+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:42:50.350+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:42:50.504+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:42:50.504+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:42:50.666+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.911 seconds
+[2023-10-20T04:43:21.038+0000] {processor.py:153} INFO - Started process (PID=427) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:43:21.041+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:43:21.055+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:43:21.043+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:43:21.206+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:43:21.336+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:43:21.336+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:43:21.547+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:43:21.547+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:43:21.638+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.617 seconds
+[2023-10-20T04:43:52.501+0000] {processor.py:153} INFO - Started process (PID=458) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:43:52.511+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:43:52.521+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:43:52.520+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:43:52.708+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:43:52.760+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:43:52.760+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:43:52.845+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:43:52.845+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:43:52.919+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.430 seconds
+[2023-10-20T04:44:23.012+0000] {processor.py:153} INFO - Started process (PID=489) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:44:23.019+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:44:23.023+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:44:23.022+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:44:23.152+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:44:23.197+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:44:23.196+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:44:23.279+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:44:23.279+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:44:23.337+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.335 seconds
+[2023-10-20T04:44:54.029+0000] {processor.py:153} INFO - Started process (PID=520) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:44:54.036+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:44:54.040+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:44:54.039+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:44:54.212+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:44:54.313+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:44:54.312+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:44:54.397+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:44:54.397+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:44:54.448+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.429 seconds
+[2023-10-20T04:45:25.001+0000] {processor.py:153} INFO - Started process (PID=552) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:45:25.005+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:45:25.013+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:45:25.012+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:45:25.451+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:45:25.569+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:45:25.569+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:45:25.655+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:45:25.654+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:45:25.722+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.747 seconds
+[2023-10-20T04:45:55.831+0000] {processor.py:153} INFO - Started process (PID=585) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:45:55.834+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:45:55.836+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:45:55.835+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:45:55.940+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:45:55.984+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:45:55.984+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:45:56.063+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:45:56.062+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:45:56.132+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.310 seconds
+[2023-10-20T04:46:27.011+0000] {processor.py:153} INFO - Started process (PID=617) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:46:27.032+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:46:27.044+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:46:27.044+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:46:27.639+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:46:27.855+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:46:27.855+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:46:28.094+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:46:28.094+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:46:28.217+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 1.240 seconds
+[2023-10-20T04:46:58.413+0000] {processor.py:153} INFO - Started process (PID=642) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:46:58.419+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:46:58.442+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:46:58.442+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:46:58.902+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:46:59.064+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:46:59.064+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:46:59.339+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:46:59.339+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:46:59.645+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 1.246 seconds
+[2023-10-20T04:47:29.964+0000] {processor.py:153} INFO - Started process (PID=672) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:47:29.970+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:47:29.974+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:47:29.974+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:47:30.071+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:47:30.114+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:47:30.113+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:47:30.185+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:47:30.185+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:47:30.239+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.289 seconds
+[2023-10-20T04:48:00.765+0000] {processor.py:153} INFO - Started process (PID=704) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:48:00.769+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:48:00.774+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:48:00.773+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:48:00.867+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:48:00.907+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:48:00.907+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:48:00.972+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:48:00.972+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:48:01.031+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.273 seconds
+[2023-10-20T04:48:31.229+0000] {processor.py:153} INFO - Started process (PID=714) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:48:31.232+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T04:48:31.235+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:48:31.235+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:48:31.434+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T04:48:31.498+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:48:31.497+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T04:48:31.670+0000] {logging_mixin.py:137} INFO - [2023-10-20T04:48:31.669+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T04:48:31.822+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.606 seconds
+[2023-10-20T05:49:05.678+0000] {processor.py:153} INFO - Started process (PID=741) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:49:05.690+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:49:05.695+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:49:05.694+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:49:05.960+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:49:06.099+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:49:06.098+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:49:06.208+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:49:06.207+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:49:06.308+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.661 seconds
+[2023-10-20T05:49:37.475+0000] {processor.py:153} INFO - Started process (PID=766) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:49:37.492+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:49:37.495+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:49:37.495+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:49:37.597+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:49:37.659+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:49:37.658+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:49:37.751+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:49:37.751+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:49:37.819+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.367 seconds
+[2023-10-20T05:50:08.231+0000] {processor.py:153} INFO - Started process (PID=796) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:50:08.243+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:50:08.258+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:50:08.257+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:50:08.664+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:50:08.811+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:50:08.811+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:50:08.974+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:50:08.969+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:50:09.161+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.969 seconds
+[2023-10-20T05:50:39.801+0000] {processor.py:153} INFO - Started process (PID=819) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:50:39.808+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:50:39.820+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:50:39.812+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:50:40.027+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:50:40.137+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:50:40.136+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:50:40.263+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:50:40.263+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:50:40.393+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.613 seconds
+[2023-10-20T05:51:11.056+0000] {processor.py:153} INFO - Started process (PID=851) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:51:11.074+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:51:11.087+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:51:11.087+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:51:11.295+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:51:11.481+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:51:11.480+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:51:11.686+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:51:11.685+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:51:11.840+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.871 seconds
+[2023-10-20T05:51:44.114+0000] {processor.py:153} INFO - Started process (PID=878) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:51:44.141+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:51:44.158+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:51:44.158+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:51:45.546+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:51:46.850+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:51:46.770+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:51:47.679+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:51:47.678+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:51:47.989+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 4.068 seconds
+[2023-10-20T05:52:23.030+0000] {processor.py:153} INFO - Started process (PID=905) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:52:23.085+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:52:23.112+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:52:23.112+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:52:24.773+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:52:25.266+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:52:25.265+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:52:26.276+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:52:26.272+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:52:27.007+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 4.010 seconds
+[2023-10-20T05:52:57.383+0000] {processor.py:153} INFO - Started process (PID=931) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:52:57.386+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:52:57.390+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:52:57.390+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:52:57.463+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:52:57.501+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:52:57.501+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:52:57.573+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:52:57.572+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:52:57.631+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.259 seconds
+[2023-10-20T05:53:27.879+0000] {processor.py:153} INFO - Started process (PID=963) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:53:27.881+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:53:27.884+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:53:27.884+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:53:27.939+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:53:27.968+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:53:27.968+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:53:28.028+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:53:28.028+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:53:28.085+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.213 seconds
+[2023-10-20T05:53:58.674+0000] {processor.py:153} INFO - Started process (PID=995) to work on /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:53:58.683+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_raw.py for tasks to queue
+[2023-10-20T05:53:58.693+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:53:58.692+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:53:58.858+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_raw_v1_3_batch1']) retrieved from /opt/airflow/dags/etl_sales_dashboard_raw.py
+[2023-10-20T05:53:59.093+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:53:59.093+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-10-20T05:53:59.176+0000] {logging_mixin.py:137} INFO - [2023-10-20T05:53:59.176+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_raw_v1_3_batch1 to None, run_after=None
+[2023-10-20T05:53:59.251+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_raw.py took 0.587 seconds

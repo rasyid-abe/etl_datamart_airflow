@@ -1,0 +1,33 @@
+{
+    "dag": "etl_sales_dashboard_mart_monthly",
+    "owner": "abdur.rasyid@majoo.id",
+    "priority_weight": 90,
+    "conn_source": "postgres_data-lake",
+    "conn_target": "postgres_data-lake",
+    "email_alert": ["abdur.rasyid@majoo.id"],
+    "tasks" :  {
+        "wait" : [
+            {
+                "id" : "wait_for_daily",
+                "dag" : "etl_sales_dashboard_mart_daily",
+                "task_id": "extract_load_sales_dashboard"
+            }
+        ],
+        "monthly" : [
+            {
+                "id" : "extract_load_sales_dashboard_monthly",
+                "query" : "etl_sales_dashboard/monthly.sql",
+                "table" : "mart_prd.mart_sales_dashboard_monthly"
+            }
+        ]
+    },
+    "versions": [
+        {
+            "name": "v1_4_batch1",
+            "start_date": "2023-09-30 18:00:00",
+            "schedule_interval": "0 18 L * *",
+            "end_date": "2023-10-31 18:00:00",
+            "tags": ["active","sales-dashboard"]
+        }
+    ]
+}

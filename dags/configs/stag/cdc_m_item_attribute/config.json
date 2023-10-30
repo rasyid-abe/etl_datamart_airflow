@@ -1,0 +1,26 @@
+{
+    "dag": "validity_cdc_m_item_attribute",
+    "owner": "abdur.rasyid@majoo.id",
+    "priority_weight": 90,
+    "conn_source": "mysql_klopos",
+    "conn_target": "postgres_data-lake",
+    "email_alert": ["data-engineer@majoo.id","abdur.rasyid@majoo.id"],
+    "versions": [
+        {
+            "name": "v0_1",
+            "start_date": "2022-01-27 17:00:00",
+            "schedule_interval": "0 17 * * *",
+            "end_date": null,
+            "tags": ["active","staging","cdc_m_item_attribute"],
+            "raw_tasks": [
+                {
+                    "name": "validity_cdc_m_item_attribute",
+                    "schedule": "daily",
+                    "extract_query": "cdc_m_item_attribute/validity.sql",
+                    "identifier": "id",
+                    "table_target": "master_klopos.m_item_attribute"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dag": "etl_tax_report_mart_raw",
+    "owner": "abdur.rasyid@majoo.id",
+    "priority_weight": 95,
+    "conn_source": "mysql_klopos",
+    "conn_target": "postgres_data-lake",
+    "email_alert": ["abdur.rasyid@majoo.id"],
+    "tasks" :  {
+        "raw": {
+            "id" : "extract_load_raw",
+            "query" : "etl_tax_report/raw.sql",
+            "table" : "mart_prd.raw_mart_tax_report"
+        }
+    },
+    "versions": [
+        {
+            "name": "v0_1_batch1",
+            "start_date": "2023-03-01 18:00:00",
+            "schedule_interval": "0 18 * * *",
+            "end_date": "2023-10-31 18:00:00",
+            "tags": ["active","tax-report"]
+        }
+    ]
+}

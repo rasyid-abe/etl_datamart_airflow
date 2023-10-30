@@ -1,0 +1,154 @@
+[2023-08-16 03:28:48,213] {processor.py:153} INFO - Started process (PID=42) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:28:48,220] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:28:48,223] {logging_mixin.py:115} INFO - [2023-08-16 03:28:48,222] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:28:48,664] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:28:48,775] {logging_mixin.py:115} INFO - [2023-08-16 03:28:48,775] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:28:48,865] {logging_mixin.py:115} INFO - [2023-08-16 03:28:48,864] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:28:48,892] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.691 seconds
+[2023-08-16 03:29:18,953] {processor.py:153} INFO - Started process (PID=61) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:29:18,955] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:29:18,960] {logging_mixin.py:115} INFO - [2023-08-16 03:29:18,960] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:29:19,026] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:29:19,054] {logging_mixin.py:115} INFO - [2023-08-16 03:29:19,054] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:29:19,096] {logging_mixin.py:115} INFO - [2023-08-16 03:29:19,096] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:29:19,128] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.180 seconds
+[2023-08-16 03:29:49,339] {processor.py:153} INFO - Started process (PID=81) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:29:49,340] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:29:49,347] {logging_mixin.py:115} INFO - [2023-08-16 03:29:49,347] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:29:49,445] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:29:49,481] {logging_mixin.py:115} INFO - [2023-08-16 03:29:49,480] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:29:49,528] {logging_mixin.py:115} INFO - [2023-08-16 03:29:49,528] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:29:49,554] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.224 seconds
+[2023-08-16 03:30:19,694] {processor.py:153} INFO - Started process (PID=110) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:30:19,695] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:30:19,696] {logging_mixin.py:115} INFO - [2023-08-16 03:30:19,696] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:30:19,781] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:30:19,814] {logging_mixin.py:115} INFO - [2023-08-16 03:30:19,814] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:30:19,863] {logging_mixin.py:115} INFO - [2023-08-16 03:30:19,863] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:30:19,892] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.211 seconds
+[2023-08-16 03:30:50,072] {processor.py:153} INFO - Started process (PID=131) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:30:50,084] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:30:50,089] {logging_mixin.py:115} INFO - [2023-08-16 03:30:50,089] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:30:50,206] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:30:50,237] {logging_mixin.py:115} INFO - [2023-08-16 03:30:50,236] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:30:50,277] {logging_mixin.py:115} INFO - [2023-08-16 03:30:50,277] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:30:50,299] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.250 seconds
+[2023-08-16 03:45:53,930] {processor.py:153} INFO - Started process (PID=40) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:45:53,937] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:45:53,943] {logging_mixin.py:115} INFO - [2023-08-16 03:45:53,943] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:45:54,376] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:45:54,477] {logging_mixin.py:115} INFO - [2023-08-16 03:45:54,468] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:45:54,596] {logging_mixin.py:115} INFO - [2023-08-16 03:45:54,596] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:45:54,654] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.746 seconds
+[2023-08-16 03:46:24,768] {processor.py:153} INFO - Started process (PID=60) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:46:24,778] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:46:24,780] {logging_mixin.py:115} INFO - [2023-08-16 03:46:24,779] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:46:24,891] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:46:24,944] {logging_mixin.py:115} INFO - [2023-08-16 03:46:24,944] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:46:24,997] {logging_mixin.py:115} INFO - [2023-08-16 03:46:24,997] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:46:25,041] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.279 seconds
+[2023-08-16 03:46:55,131] {processor.py:153} INFO - Started process (PID=89) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:46:55,134] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:46:55,137] {logging_mixin.py:115} INFO - [2023-08-16 03:46:55,137] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:46:55,204] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:46:55,240] {logging_mixin.py:115} INFO - [2023-08-16 03:46:55,240] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:46:55,288] {logging_mixin.py:115} INFO - [2023-08-16 03:46:55,288] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:46:55,308] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.182 seconds
+[2023-08-16 03:47:25,388] {processor.py:153} INFO - Started process (PID=116) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:47:25,389] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:47:25,389] {logging_mixin.py:115} INFO - [2023-08-16 03:47:25,389] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:47:25,448] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:47:25,475] {logging_mixin.py:115} INFO - [2023-08-16 03:47:25,475] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:47:25,526] {logging_mixin.py:115} INFO - [2023-08-16 03:47:25,526] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:47:25,566] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.184 seconds
+[2023-08-16 03:47:55,920] {processor.py:153} INFO - Started process (PID=139) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:47:55,924] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:47:55,929] {logging_mixin.py:115} INFO - [2023-08-16 03:47:55,928] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:47:56,121] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:47:56,177] {logging_mixin.py:115} INFO - [2023-08-16 03:47:56,177] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:47:56,277] {logging_mixin.py:115} INFO - [2023-08-16 03:47:56,277] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:47:56,351] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.446 seconds
+[2023-08-16 03:48:26,492] {processor.py:153} INFO - Started process (PID=159) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:48:26,493] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:48:26,496] {logging_mixin.py:115} INFO - [2023-08-16 03:48:26,496] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:48:26,685] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:48:26,765] {logging_mixin.py:115} INFO - [2023-08-16 03:48:26,765] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:48:26,867] {logging_mixin.py:115} INFO - [2023-08-16 03:48:26,866] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:48:26,946] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.470 seconds
+[2023-08-16 03:48:57,058] {processor.py:153} INFO - Started process (PID=187) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:48:57,069] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:48:57,072] {logging_mixin.py:115} INFO - [2023-08-16 03:48:57,072] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:48:57,913] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:48:58,034] {logging_mixin.py:115} INFO - [2023-08-16 03:48:58,034] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:48:58,253] {logging_mixin.py:115} INFO - [2023-08-16 03:48:58,244] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:48:58,425] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 1.395 seconds
+[2023-08-16 03:49:28,665] {processor.py:153} INFO - Started process (PID=209) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:49:28,673] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:49:28,676] {logging_mixin.py:115} INFO - [2023-08-16 03:49:28,675] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:49:28,931] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:49:29,070] {logging_mixin.py:115} INFO - [2023-08-16 03:49:29,067] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:49:29,347] {logging_mixin.py:115} INFO - [2023-08-16 03:49:29,347] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:49:29,419] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.772 seconds
+[2023-08-16 03:49:59,665] {processor.py:153} INFO - Started process (PID=230) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:50:00,289] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:50:00,299] {logging_mixin.py:115} INFO - [2023-08-16 03:50:00,298] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:50:00,681] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:50:00,763] {logging_mixin.py:115} INFO - [2023-08-16 03:50:00,763] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:50:00,840] {logging_mixin.py:115} INFO - [2023-08-16 03:50:00,840] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:50:00,895] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 1.257 seconds
+[2023-08-16 03:50:31,024] {processor.py:153} INFO - Started process (PID=260) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:50:31,033] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:50:31,035] {logging_mixin.py:115} INFO - [2023-08-16 03:50:31,035] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:50:31,130] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:50:31,159] {logging_mixin.py:115} INFO - [2023-08-16 03:50:31,159] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:50:31,210] {logging_mixin.py:115} INFO - [2023-08-16 03:50:31,210] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:50:31,255] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.242 seconds
+[2023-08-16 03:51:01,367] {processor.py:153} INFO - Started process (PID=279) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:51:01,371] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:51:01,374] {logging_mixin.py:115} INFO - [2023-08-16 03:51:01,373] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:51:01,528] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:51:01,570] {logging_mixin.py:115} INFO - [2023-08-16 03:51:01,569] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:51:01,639] {logging_mixin.py:115} INFO - [2023-08-16 03:51:01,639] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:51:01,697] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.339 seconds
+[2023-08-16 03:51:31,835] {processor.py:153} INFO - Started process (PID=300) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:51:31,840] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:51:31,843] {logging_mixin.py:115} INFO - [2023-08-16 03:51:31,843] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:51:32,009] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:51:32,074] {logging_mixin.py:115} INFO - [2023-08-16 03:51:32,074] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:51:32,202] {logging_mixin.py:115} INFO - [2023-08-16 03:51:32,202] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:51:32,233] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.404 seconds
+[2023-08-16 03:52:02,392] {processor.py:153} INFO - Started process (PID=329) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:52:02,396] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:52:02,401] {logging_mixin.py:115} INFO - [2023-08-16 03:52:02,400] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:52:02,490] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:52:02,519] {logging_mixin.py:115} INFO - [2023-08-16 03:52:02,519] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:52:02,561] {logging_mixin.py:115} INFO - [2023-08-16 03:52:02,561] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:52:02,581] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.209 seconds
+[2023-08-16 03:52:32,744] {processor.py:153} INFO - Started process (PID=349) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:52:32,747] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:52:32,750] {logging_mixin.py:115} INFO - [2023-08-16 03:52:32,748] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:52:32,924] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:52:32,964] {logging_mixin.py:115} INFO - [2023-08-16 03:52:32,964] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:52:33,018] {logging_mixin.py:115} INFO - [2023-08-16 03:52:33,018] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:52:33,058] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.321 seconds
+[2023-08-16 03:53:03,258] {processor.py:153} INFO - Started process (PID=379) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:53:03,260] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:53:03,269] {logging_mixin.py:115} INFO - [2023-08-16 03:53:03,268] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:53:03,351] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:53:03,392] {logging_mixin.py:115} INFO - [2023-08-16 03:53:03,392] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:53:03,437] {logging_mixin.py:115} INFO - [2023-08-16 03:53:03,437] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:53:03,457] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.217 seconds
+[2023-08-16 03:53:33,616] {processor.py:153} INFO - Started process (PID=398) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:53:33,619] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 03:53:33,623] {logging_mixin.py:115} INFO - [2023-08-16 03:53:33,622] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:53:33,722] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 03:53:33,762] {logging_mixin.py:115} INFO - [2023-08-16 03:53:33,762] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 03:53:33,831] {logging_mixin.py:115} INFO - [2023-08-16 03:53:33,831] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 03:53:33,863] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.258 seconds
+[2023-08-16 04:25:50,175] {processor.py:153} INFO - Started process (PID=40) to work on /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 04:25:50,182] {processor.py:641} INFO - Processing file /opt/airflow/dags/validity_cdc_m_item_attribute.py for tasks to queue
+[2023-08-16 04:25:50,184] {logging_mixin.py:115} INFO - [2023-08-16 04:25:50,184] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 04:25:50,511] {processor.py:651} INFO - DAG(s) dict_keys(['validity_cdc_m_item_attribute_v0_1']) retrieved from /opt/airflow/dags/validity_cdc_m_item_attribute.py
+[2023-08-16 04:25:50,598] {logging_mixin.py:115} INFO - [2023-08-16 04:25:50,598] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-16 04:25:50,755] {logging_mixin.py:115} INFO - [2023-08-16 04:25:50,755] {dag.py:2931} INFO - Setting next_dagrun for validity_cdc_m_item_attribute_v0_1 to 2022-03-28T17:00:00+00:00, run_after=2022-03-29T17:00:00+00:00
+[2023-08-16 04:25:50,808] {processor.py:161} INFO - Processing /opt/airflow/dags/validity_cdc_m_item_attribute.py took 0.662 seconds

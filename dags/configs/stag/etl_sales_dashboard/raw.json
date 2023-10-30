@@ -1,0 +1,24 @@
+{
+    "dag": "etl_sales_dashboard_mart_raw",
+    "owner": "abdur.rasyid@majoo.id",
+    "priority_weight": 95,
+    "conn_source": "mysql_klopos",
+    "conn_target": "postgres_data-lake",
+    "email_alert": ["abdur.rasyid@majoo.id"],
+    "tasks" :  {
+        "raw": {
+            "id" : "extract_load_raw",
+            "query" : "etl_sales_dashboard/raw.sql",
+            "table" : "mart_prd.raw_mart_sales_dashboard"
+        }
+    },
+    "versions": [
+        {
+            "name": "v1_4_batch1",
+            "start_date": "2023-09-30 18:00:00",
+            "schedule_interval": "0 18 * * *",
+            "end_date": "2023-10-31 18:00:00",
+            "tags": ["active","sales-dashboard"]
+        }
+    ]
+}

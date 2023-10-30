@@ -1,0 +1,116 @@
+[2023-09-06T16:02:40.393+0000] {processor.py:153} INFO - Started process (PID=46) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:02:40.403+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:02:40.407+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:02:40.407+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:02:40.727+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v0_2_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:02:40.839+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:02:40.839+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:02:41.017+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:02:41.017+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v0_2_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:02:41.113+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.765 seconds
+[2023-09-06T16:03:11.837+0000] {processor.py:153} INFO - Started process (PID=70) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:03:11.868+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:03:11.890+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:03:11.889+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:03:14.071+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v0_2_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:03:14.546+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:03:14.546+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:03:15.496+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:03:15.487+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v0_2_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:03:15.807+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 4.038 seconds
+[2023-09-06T16:03:46.397+0000] {processor.py:153} INFO - Started process (PID=101) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:03:46.398+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:03:46.400+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:03:46.399+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:03:46.485+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v0_2_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:03:46.512+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:03:46.512+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:03:46.560+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:03:46.560+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v0_2_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:03:46.605+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.217 seconds
+[2023-09-06T16:04:17.244+0000] {processor.py:153} INFO - Started process (PID=129) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:04:17.253+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:04:17.274+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:04:17.272+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:04:17.619+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v0_2_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:04:17.720+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:04:17.720+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:04:17.837+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:04:17.837+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v0_2_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:04:17.937+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.703 seconds
+[2023-09-06T16:04:48.150+0000] {processor.py:153} INFO - Started process (PID=157) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:04:48.154+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:04:48.159+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:04:48.158+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:04:48.253+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v0_2_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:04:48.284+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:04:48.284+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:04:48.349+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:04:48.348+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v0_2_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:04:48.391+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.270 seconds
+[2023-09-06T16:05:19.101+0000] {processor.py:153} INFO - Started process (PID=185) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:05:19.103+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:05:19.105+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:05:19.105+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:05:19.182+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v0_2_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:05:19.213+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:05:19.213+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:05:19.277+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:05:19.276+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v0_2_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:05:19.320+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.229 seconds
+[2023-09-06T16:05:50.012+0000] {processor.py:153} INFO - Started process (PID=213) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:05:50.014+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:05:50.016+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:05:50.016+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:05:50.091+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v0_2_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:05:50.116+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:05:50.115+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:05:50.193+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:05:50.193+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v0_2_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:05:50.265+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.261 seconds
+[2023-09-06T16:06:20.973+0000] {processor.py:153} INFO - Started process (PID=240) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:06:20.982+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:06:20.985+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:20.984+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:06:21.094+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:06:21.605+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:21.605+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:etl_sales_dashboard_mart_yearly_v1_0_run_last
+[2023-09-06T16:06:21.702+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:21.702+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:etl_sales_dashboard_mart_yearly_v1_0_run_last
+[2023-09-06T16:06:21.738+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:21.737+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:etl_sales_dashboard_mart_yearly_v1_0_run_last
+[2023-09-06T16:06:21.739+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:21.738+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:06:21.834+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:21.834+0000] {dag.py:2726} INFO - Creating ORM DAG for etl_sales_dashboard_mart_yearly_v1_0_run_last
+[2023-09-06T16:06:21.875+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:21.874+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:06:21.969+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 1.014 seconds
+[2023-09-06T16:06:52.571+0000] {processor.py:153} INFO - Started process (PID=273) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:06:52.580+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:06:52.589+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:52.588+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:06:52.939+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:06:53.746+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:53.745+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:06:54.041+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:06:54.041+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:06:54.399+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 1.872 seconds
+[2023-09-06T16:07:24.888+0000] {processor.py:153} INFO - Started process (PID=305) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:07:24.890+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:07:24.897+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:07:24.896+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:07:24.973+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:07:24.998+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:07:24.997+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:07:25.046+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:07:25.046+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:07:25.082+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.202 seconds
+[2023-09-06T16:07:55.393+0000] {processor.py:153} INFO - Started process (PID=335) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:07:55.395+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:07:55.398+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:07:55.397+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:07:55.461+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:07:55.490+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:07:55.489+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:07:55.546+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:07:55.546+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:07:55.590+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.205 seconds
+[2023-09-06T16:08:25.803+0000] {processor.py:153} INFO - Started process (PID=363) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:08:25.808+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:08:25.811+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:08:25.811+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:08:25.881+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:08:25.907+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:08:25.907+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:08:25.951+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:08:25.950+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:08:25.981+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.193 seconds
+[2023-09-06T16:08:56.618+0000] {processor.py:153} INFO - Started process (PID=391) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:08:56.621+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:08:56.624+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:08:56.623+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:08:56.706+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:08:56.774+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:08:56.774+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:08:56.850+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:08:56.849+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:08:56.898+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.288 seconds
+[2023-09-06T16:09:27.481+0000] {processor.py:153} INFO - Started process (PID=426) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:09:27.485+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:09:27.488+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:09:27.488+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:09:27.615+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:09:27.650+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:09:27.649+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:09:27.720+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:09:27.719+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:09:27.765+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.292 seconds
+[2023-09-06T16:09:57.935+0000] {processor.py:153} INFO - Started process (PID=459) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:09:57.937+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:09:57.940+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:09:57.940+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:09:58.004+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:09:58.028+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:09:58.028+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:09:58.067+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:09:58.067+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:09:58.103+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.173 seconds
+[2023-09-06T16:10:28.297+0000] {processor.py:153} INFO - Started process (PID=487) to work on /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:10:28.298+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py for tasks to queue
+[2023-09-06T16:10:28.303+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:10:28.301+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:10:28.385+0000] {processor.py:753} INFO - DAG(s) dict_keys(['etl_sales_dashboard_mart_yearly_v1_0_run_last']) retrieved from /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py
+[2023-09-06T16:10:28.415+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:10:28.415+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-09-06T16:10:28.466+0000] {logging_mixin.py:137} INFO - [2023-09-06T16:10:28.466+0000] {dag.py:3456} INFO - Setting next_dagrun for etl_sales_dashboard_mart_yearly_v1_0_run_last to 2015-12-31T17:00:00+00:00, run_after=2016-12-31T17:00:00+00:00
+[2023-09-06T16:10:28.513+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_sales_dashboard_mart_yearly.py took 0.222 seconds

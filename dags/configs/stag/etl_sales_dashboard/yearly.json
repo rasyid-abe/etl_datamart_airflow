@@ -1,0 +1,26 @@
+{
+    "dag": "etl_sales_dashboard_mart_yearly",
+    "owner": "abdur.rasyid@majoo.id",
+    "priority_weight": 90,
+    "conn_source": "postgres_data-lake",
+    "conn_target": "postgres_data-lake",
+    "email_alert": ["abdur.rasyid@majoo.id"],
+    "tasks" :  {
+        "yearly" : [
+            {
+                "id" : "extract_load_sales_dashboard_yearly",
+                "query" : "etl_sales_dashboard/yearly.sql",
+                "table" : "mart_prd.mart_sales_dashboard_yearly"
+            }
+        ]
+    },
+    "versions": [
+        {
+            "name": "v1_4_run_last",
+            "start_date": "2015-12-31 17:00:00",
+            "schedule_interval": "0 17 31 12 *",
+            "end_date": "2022-12-30 17:00:00",
+            "tags": ["active","sales-dashboard"]
+        }
+    ]
+}
